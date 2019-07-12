@@ -1,0 +1,196 @@
+-1,-101234,-2,-202,-3,-4,-6-5,0,01,012,01234,0123450,1,1.01.52.02.50.00.5,1.01.52.02.5percent,1.1.1.1.31.52.5,1.62.12.43.64.23.7,1.71.51.41.41.41.5,1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/5,10,10-yeartreasuryyield,10.56.0,104-quarter,10erm,10pce,12.12.73.53.73.94.1,1234,12345percent,18.78.68.27.87.26.5,2,2.51.41.31.51.51.6,20022004200620082010201220142016,2008,2009,2010,2011,2011201020122013,201120122013change,201120122013tealbook,201120122013unemployment,2012,3,345012,3454-quarter,4,45,5,501234,56-10,564-quarter,5interest,5percent,5unemployment,6,6.57.07.5,7,8,8.08.59.0,810-20,9,9.510.0,9.510.010.5percent,adjustmentnairu,analysis.1995200020052010,analysis.currentprevious,analysis.pce,annual,average,bank,bars,bbb,beverages1.36.43.71.11.2,bureau,business,chain-weighted,change,civilianunemploymentrate,commerce,computers,consumers,core,corepceprices,corporate,cost,costs,date,defined,dept,ear,economic,eeb,employment,energy,energy1.01.91.51.51.4,energy1995200020052010,energy6.227.2-1.91.4-.8,evolution,ex,except,exclude,excluding,expectations,federal,federalfundsrate,final,food,forecast,forecasters,fourth,funds,gas,gdp,gdp20022004200620082010201220142016,gdp6.06.57.07.5,gdpter,goods,gray,h1h2,hour1995200020052010,imports,imports12.67.7.8.21.5,index,index1.33.61.41.41.3,indexproductivity,indicate,inflation,item201120122013201420152016,jan.q4thomson,labor,market-based,measure,michigan,nairu,national,natural,next,note,noted,oil,outlook,panel,pce,pceprices,per,percent,period,philadelphia.long-term,potential,preceding,previous,price,prices,prices1995200020052010,professional,projection,projectionis,projections,publication,q4,q4/q4,quarter,rate,rate0.00.5,ratespercent,real,realgdp,recession,represents,research.compensation,reserve,reuters/michigan,reuters/university,semiconductors,shaded,shading,source,spf,staff,statistics,survey,surveys,tealbook,tealbook1.01.91.51.51.4,tealbook1.33.61.41.41.2,tealbook1.36.43.71.21.2,tealbook2.67.7.8.21.5,tealbook6.227.2-1.9-.3-1.6,tealbooktotal,ter,thomson,total,treasury,u.s.,yrs,yrs.spf
+-1,2,"[169, 201]"
+-101234,1,[54]
+-2,1,[168]
+-202,1,[87]
+-3,1,[167]
+-4,1,[166]
+-6-5,1,[165]
+0,2,"[170, 202]"
+01,1,[217]
+012,1,[70]
+01234,1,[124]
+0123450,1,[263]
+1,4,"[37, 171, 203, 240]"
+1.01.52.02.50.00.5,1,[297]
+1.01.52.02.5percent,1,[298]
+1.1.1.1.31.52.5,1,[257]
+1.62.12.43.64.23.7,1,[248]
+1.71.51.41.41.41.5,1,[255]
+1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/5,3,"[274, 294, 308]"
+10,2,"[131, 134]"
+10-yeartreasuryyield,1,[258]
+10.56.0,1,[280]
+104-quarter,1,[95]
+10erm,1,[226]
+10pce,1,[187]
+12.12.73.53.73.94.1,1,[259]
+1234,1,[56]
+12345percent,1,[264]
+18.78.68.27.87.26.5,1,[250]
+2,4,"[91, 172, 204, 218]"
+2.51.41.31.51.51.6,1,[253]
+20022004200620082010201220142016,3,"[181, 200, 216]"
+2008,3,"[269, 289, 303]"
+2009,3,"[270, 290, 304]"
+2010,3,"[271, 291, 305]"
+2011,3,"[272, 292, 306]"
+2011201020122013,1,[10]
+201120122013change,1,[309]
+201120122013tealbook,1,[266]
+201120122013unemployment,1,[295]
+2012,3,"[273, 293, 307]"
+3,3,"[173, 205, 219]"
+345012,1,[71]
+3454-quarter,1,[72]
+4,5,"[88, 92, 174, 206, 220]"
+45,1,[182]
+5,2,"[130, 221]"
+501234,1,[125]
+56-10,1,[55]
+564-quarter,1,[57]
+5interest,1,[207]
+5percent,1,[126]
+5unemployment,1,[175]
+6,4,"[89, 93, 183, 222]"
+6.57.07.5,1,[281]
+7,2,"[184, 223]"
+8,3,"[94, 185, 224]"
+8.08.59.0,2,"[278, 282]"
+810-20,1,[90]
+9,2,"[186, 225]"
+9.510.0,1,[279]
+9.510.010.5percent,1,[283]
+adjustmentnairu,1,[180]
+analysis.1995200020052010,1,[53]
+analysis.currentprevious,1,[66]
+analysis.pce,1,[82]
+annual,1,[4]
+average,1,[242]
+bank,1,[153]
+bars,1,[112]
+bbb,1,[209]
+beverages1.36.43.71.11.2,1,[20]
+bureau,5,"[51, 64, 80, 106, 119]"
+business,1,[115]
+chain-weighted,1,[14]
+change,8,"[3, 59, 74, 97, 160, 191, 229, 275]"
+civilianunemploymentrate,1,[249]
+commerce,3,"[50, 63, 79]"
+computers,1,[42]
+consumers,1,[150]
+core,2,"[32, 38]"
+corepceprices,1,[254]
+corporate,1,[210]
+cost,1,[99]
+costs,1,[101]
+date,3,"[268, 288, 302]"
+defined,1,[117]
+dept,4,"[49, 62, 78, 104]"
+ear,1,[211]
+economic,4,"[52, 65, 81, 120]"
+eeb,1,[179]
+employment,1,[98]
+energy,2,"[199, 314]"
+energy1.01.91.51.51.4,1,[28]
+energy1995200020052010,1,[86]
+energy6.227.2-1.91.4-.8,1,[23]
+evolution,1,[260]
+ex,1,[84]
+except,1,[232]
+exclude,1,[41]
+excluding,3,"[26, 197, 312]"
+expectations,1,[156]
+federal,2,"[151, 213]"
+federalfundsrate,1,[256]
+final,2,"[6, 243]"
+food,5,"[19, 27, 85, 198, 313]"
+forecast,1,[262]
+forecasters,1,[139]
+fourth,1,[284]
+funds,1,[214]
+gas,1,[46]
+gdp,1,[162]
+gdp20022004200620082010201220142016,1,[164]
+gdp6.06.57.07.5,1,[277]
+gdpter,1,[158]
+goods,2,"[33, 39]"
+gray,1,[110]
+h1h2,1,[12]
+hour1995200020052010,1,[123]
+imports,1,[40]
+imports12.67.7.8.21.5,1,[34]
+index,1,[144]
+index1.33.61.41.41.3,1,[16]
+indexproductivity,1,[100]
+indicate,1,[113]
+inflation,2,"[0, 155]"
+item201120122013201420152016,1,[246]
+jan.q4thomson,1,[127]
+labor,2,"[105, 107]"
+market-based,1,[75]
+measure,1,[11]
+michigan,1,[148]
+nairu,1,[178]
+national,1,[118]
+natural,1,[45]
+next,2,"[129, 133]"
+note,3,"[109, 136, 234]"
+noted,1,[233]
+oil,1,[44]
+outlook,1,[227]
+panel,1,[235]
+pce,6,"[13, 68, 142, 193, 195, 310]"
+pceprices,1,[251]
+per,1,[122]
+percent,9,"[2, 58, 73, 96, 159, 177, 190, 228, 241]"
+period,4,"[9, 114, 239, 245]"
+philadelphia.long-term,1,[154]
+potential,1,[161]
+preceding,1,[8]
+previous,5,"[17, 21, 24, 29, 35]"
+price,2,"[15, 143]"
+prices,6,"[31, 83, 188, 194, 196, 311]"
+prices1995200020052010,1,[69]
+professional,1,[138]
+projection,1,[238]
+projectionis,1,[141]
+projections,1,[1]
+publication,3,"[267, 287, 301]"
+q4,2,"[230, 231]"
+q4/q4,2,"[265, 299]"
+quarter,3,"[7, 244, 285]"
+rate,3,"[5, 176, 215]"
+rate0.00.5,1,[296]
+ratespercent,1,[208]
+real,3,"[157, 163, 276]"
+realgdp,1,[247]
+recession,1,[116]
+represents,1,[237]
+research.compensation,1,[121]
+reserve,1,[152]
+reuters/michigan,1,[128]
+reuters/university,1,[147]
+semiconductors,1,[43]
+shaded,1,[111]
+shading,1,[236]
+source,5,"[47, 60, 76, 102, 145]"
+spf,1,[140]
+staff,1,[261]
+statistics,1,[108]
+survey,1,[137]
+surveys,1,[149]
+tealbook,2,"[286, 300]"
+tealbook1.01.91.51.51.4,1,[30]
+tealbook1.33.61.41.41.2,1,[18]
+tealbook1.36.43.71.21.2,1,[22]
+tealbook2.67.7.8.21.5,1,[36]
+tealbook6.227.2-1.9-.3-1.6,1,[25]
+tealbooktotal,1,[67]
+ter,1,[189]
+thomson,1,[146]
+total,2,"[192, 252]"
+treasury,1,[212]
+u.s.,4,"[48, 61, 77, 103]"
+yrs,1,[135]
+yrs.spf,1,[132]

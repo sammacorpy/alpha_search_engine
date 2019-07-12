@@ -1,0 +1,56 @@
+ {% load static %}
+<!-- <!DOCTYPE html> -->
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.9/css/mdb.min.css" rel="stylesheet">
+    <title>Alpha Search|| {{ title }}</title>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+
+    <script src="{% static 'searchpage/js/home.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'searchpage/css/home.css' %}" type="text/css">
+
+</head>
+
+<body>
+  
+    <div class="body">
+        <div class="bodysearch">
+            <div class="body-head">
+                <span class="te t1">A</span>
+                <span class="te t2">l</span>
+                <span class="te t3">p</span>
+                <span class="te t4">h</span>
+                <span class="te t5">a</span>
+                <!-- <i class="fa fa-search te t6" aria-hidden="true"></i> -->
+            </div>
+            <form action="{% url 'search' %}" method="GET">
+                {% csrf_token %}
+                <div class="searchbar">
+                    <input type="search" name="query" id="query"><button class="customize-btn"><i class="fa fa-search" aria-hidden="true"></i></button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.9/js/mdb.min.js"></script>
+
+</body>
+
+
+</html>

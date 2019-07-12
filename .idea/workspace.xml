@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b42b7565-a2bf-4591-a4db-d4d3d6f09524" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/alphasearch/searchpage/DocumentSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/root.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/root.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/dataset/tables_stru/GS-2012-01-18_split_9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/pdfFiles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/pdfFiles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/0" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/1" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/10" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/100" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/100" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/101" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/102" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/102" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/103" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/103" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/104" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/104" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/105" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/105" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/106" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/106" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/107" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/107" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/108" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/108" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/109" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/109" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/11" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/110" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/110" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/111" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/112" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/112" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/113" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/113" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/114" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/114" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/115" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/115" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/116" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/116" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/117" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/117" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/118" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/118" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/119" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/119" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/12" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/13" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/14" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/15" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/16" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/17" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/18" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/19" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/2" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/20" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/21" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/22" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/23" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/24" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/25" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/26" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/27" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/27" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/28" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/28" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/29" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/3" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/30" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/30" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/31" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/32" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/32" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/33" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/33" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/34" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/35" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/35" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/36" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/36" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/37" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/38" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/38" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/39" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/39" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/4" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/40" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/40" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/41" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/42" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/42" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/43" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/43" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/44" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/44" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/45" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/45" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/46" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/46" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/47" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/47" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/48" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/48" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/49" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/49" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/5" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/50" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/50" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/51" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/51" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/52" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/52" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/53" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/53" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/54" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/54" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/55" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/55" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/56" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/56" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/57" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/57" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/58" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/58" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/59" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/59" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/6" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/60" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/60" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/61" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/61" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/62" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/62" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/63" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/63" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/64" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/65" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/65" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/66" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/66" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/67" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/67" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/68" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/68" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/69" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/69" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/7" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/70" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/70" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/71" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/71" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/72" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/72" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/73" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/73" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/74" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/74" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/75" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/75" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/76" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/76" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/77" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/77" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/78" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/78" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/79" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/79" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/8" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/80" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/81" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/81" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/82" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/82" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/83" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/84" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/84" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/85" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/85" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/86" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/86" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/87" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/87" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/88" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/88" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/89" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/89" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/9" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/90" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/90" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/91" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/91" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/92" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/92" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/93" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/93" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/94" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/94" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/95" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/95" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/96" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/96" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/97" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/98" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/98" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/99" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/scrap_data/99" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/10.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/100.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/100.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/101.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/101.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/102.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/102.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/103.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/105.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/105.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/106.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/106.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/107.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/107.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/108.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/108.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/109.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/109.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/11.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/110.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/110.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/111.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/111.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/112.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/112.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/113.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/113.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/114.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/114.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/115.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/115.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/116.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/116.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/117.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/117.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/118.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/118.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/119.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/119.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/12.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/12.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/14.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/15.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/16.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/18.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/20.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/20.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/21.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/21.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/22.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/22.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/23.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/23.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/24.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/26.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/26.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/27.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/27.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/28.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/28.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/29.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/29.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/30.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/31.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/31.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/32.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/32.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/33.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/33.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/34.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/34.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/35.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/35.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/36.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/36.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/37.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/38.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/38.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/39.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/39.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/40.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/40.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/41.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/41.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/42.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/42.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/43.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/43.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/44.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/44.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/45.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/48.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/48.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/50.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/54.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/54.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/56.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/56.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/57.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/57.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/58.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/58.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/59.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/59.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/60.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/60.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/61.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/61.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/62.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/62.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/63.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/63.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/65.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/65.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/66.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/66.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/67.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/67.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/68.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/68.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/69.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/69.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/70.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/70.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/71.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/71.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/72.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/72.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/73.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/73.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/75.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/75.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/76.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/76.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/77.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/77.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/78.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/78.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/79.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/79.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/80.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/80.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/81.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/81.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/82.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/82.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/83.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/83.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/84.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/84.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/85.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/85.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/87.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/87.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/88.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/88.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/89.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/89.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/90.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/90.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/92.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/92.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/93.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/93.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/94.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/94.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/96.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/96.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/97.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/97.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/98.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/98.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphasearch/searchpage/words_data/99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alphasearch/searchpage/words_data/99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csvFiles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csvFiles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/scrap_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/searchpage/scrap_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/TotalFiles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/csvFiles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/dataset/tables_stru/GS-2012-01-18_split_9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/pdfFiles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/101" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/110" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/scrap_data/99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/100.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/102.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/104.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/105.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/106.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/107.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/108.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/109.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/110.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/112.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/113.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/114.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/115.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/116.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/117.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/118.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/119.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/static/searchpage/words_data/total" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchpage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/searchpage/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/searchpage/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdfindex.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/pdfindex.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentSearch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/DocumentSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrap_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/scrap_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/searchpage/scrap_data.py" />
+        <option value="$PROJECT_DIR$/alphasearch/searchpage/scrap_data.py" />
+        <option value="$PROJECT_DIR$/searchpage/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="y" value="27" />
+    <option name="width" value="683" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="documents-searching-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="documents-searching-page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="documents-searching-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="documents-searching-page" type="462c0819:PsiDirectoryNode" />
+              <item name="alphasearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="documents-searching-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="documents-searching-page" type="462c0819:PsiDirectoryNode" />
+              <item name="alphasearch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/alphasearch/searchpage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.scrap_data">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="documents-searching-page" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scrap_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="documents-searching-page" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alphasearch/searchpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alphasearch/searchpage/scrap_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="documents-searching-page" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/searchpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searchpage/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.scrap_data" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scrap_data" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24515648" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/searchpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchpage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchpage/DocumentSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchpage/scrap_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/DocumentSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/scrap_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/clicks.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphasearch/searchpage/pdfindex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

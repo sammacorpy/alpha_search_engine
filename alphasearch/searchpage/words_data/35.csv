@@ -1,0 +1,347 @@
+--,1,2,3,_above_,_artistes_,_between_,_frivolitaeten_,_frivolite_,_half,_knots_,_on_,_one,_purl_,_shuttle_,_shuttles._,_the,_to,accomplished,according,account,accounts,ad,advantage,ag,allow,alphabets,also,alteration,answers,apart,appertaining,arrangement,art,attention,back,becomes,behind,believe,belongs,berlin,best,better,black,boar,bone,bring,bulges,business,called,care,careful,case,certain,close,closely,co.,coloured,come,comes,completed,completing,composed,comprise,connected,consider,consists,constantly,constituted,construction,continent,contrary,convex,cotton,crochet,cross,d'art,darning,de,described,desired,details,different,differs,discovered,distinguished,div,done,draw,drawn,dropped,easiest,edge,edging,embroidery,employment,end,ends,england,entirely,equally,especially,evans,even,every,exceedingly,fall,farther,fashionable,fasten,fastening,favour,filled,finest,finger,fingers,first,flat,following,forefinger,form,formed,forming,forms,fourth,free,french,freq,frequently,front,gained,generations,german,given,gu,guipure,half,hand,hands,hands._,held,hold,holds,humb,huttle,ide,illustration,imitation,impeded,improving,inch,inconvenient,indebted,indeed,ingenious,ingenuity,initials,inlaid,insertion,instance,instead,instructions,instrument,intended,interesting,introduction,ivory,joined,joining,keep,keeping,kept,kinds,king,knitting,knots,l,lace,ladies,large,largest,last,late,learning,lef,left,length,let,letting,liberty,linen,little,loop,made,make,making,manufactured,matters,may,mdlle,medium,mee,messrs.,method,middle,mode,modern,monograms,mrs.,much,must,nail,necessity,needle,needlework,netting,number,obviated,often,old,one,oop,ordinary,original,outer,oval,ovals,palm,part,parts,pass,passes,pattern,patterns,pearl,perfectly,piece,pieces,pin,place,plan,point,portions,position,practised,preceding,prices,primitive,printed,process,proper,provided,purl,purl._,purpose,push,quite,rather,red,reel,remain,remaining,required,rest,riego,right,round,row,ry,second,see,seems,selecting,several,sewn,shilling,shows,shuttle,shuttles,side,silver,sixpence,sixth,size,sizes,slide,small,soon,sort,space,stitch,stitch._,stitch_,stitches,strain,straining,strength,strong,stronger,style,sweep,table,take,taken,tatted,tatting,tatting._,thickness,third,thread,three,throw,thumb,thus,tight,tightened,tightly,time,together,tortoiseshell,touches,towards,trimming,two,uently,uniting,unoccupied,unthreaded,use,used,useful,va,varies,walter,way,ways,well,white,wish,withdraw,within,wood,work,workers,working,wound
+--,3,"[292, 370, 533]"
+1,1,[294]
+2,2,"[295, 527]"
+3,2,"[290, 299]"
+_above_,1,[410]
+_artistes_,1,[78]
+_between_,1,[319]
+_frivolitaeten_,1,[50]
+_frivolite_,1,[48]
+_half,1,[416]
+_knots_,1,[168]
+_on_,1,[322]
+_one,1,[479]
+_purl_,1,[512]
+_shuttle_,1,[186]
+_shuttles._,1,[288]
+_the,3,"[301, 481, 508]"
+_to,1,[359]
+accomplished,1,[77]
+according,2,"[263, 570]"
+account,1,[177]
+accounts,1,[54]
+ad,1,[281]
+advantage,1,[92]
+ag,1,[58]
+allow,1,[312]
+alphabets,1,[17]
+also,5,"[100, 140, 219, 283, 587]"
+alteration,1,[91]
+answers,1,[286]
+apart,1,[341]
+appertaining,1,[111]
+arrangement,1,[116]
+art,1,[145]
+attention,1,[143]
+back,3,"[368, 441, 453]"
+becomes,1,[251]
+behind,1,[463]
+believe,1,[84]
+belongs,1,[83]
+berlin,1,[35]
+best,2,"[151, 226]"
+better,1,[266]
+black,2,"[223, 233]"
+boar,1,[280]
+bone,1,[222]
+bring,1,[342]
+bulges,1,[557]
+business,1,[71]
+called,2,"[45, 185]"
+care,1,[573]
+careful,1,[245]
+case,1,[576]
+certain,1,[486]
+close,2,"[248, 620]"
+closely,2,"[423, 537]"
+co.,1,[278]
+coloured,1,[221]
+come,2,"[605, 624]"
+comes,1,[377]
+completed,1,[630]
+completing,1,[478]
+composed,1,[165]
+comprise,1,[149]
+connected,1,[80]
+consider,1,[150]
+consists,1,[188]
+constantly,1,[94]
+constituted,1,[130]
+construction,1,[209]
+continent,1,[139]
+contrary,1,[396]
+convex,1,[195]
+cotton,22,"[97, 254, 261, 270, 282, 343, 353, 384, 388, 391, 411, 413, 436, 440, 455, 462, 494, 515, 555, 579, 613, 623]"
+crochet,3,"[6, 8, 164]"
+cross,1,[205]
+d'art,1,[34]
+darning,1,[597]
+de,1,[212]
+described,1,[365]
+desired,1,[571]
+details,1,[110]
+different,1,[128]
+differs,1,[162]
+discovered,1,[61]
+distinguished,1,[109]
+div,1,[400]
+done,1,[467]
+draw,2,"[414, 491]"
+drawn,3,"[389, 398, 422]"
+dropped,1,[249]
+easiest,1,[529]
+edge,1,[523]
+edging,1,[518]
+embroidery,2,"[2, 4]"
+employment,1,[112]
+end,4,"[347, 352, 375, 591]"
+ends,1,[247]
+england,1,[47]
+entirely,1,[163]
+equally,1,[108]
+especially,1,[173]
+evans,1,[277]
+even,1,[585]
+every,1,[566]
+exceedingly,1,[154]
+fall,3,"[348, 437, 445]"
+farther,1,[606]
+fashionable,1,[156]
+fasten,1,[617]
+fastening,1,[122]
+favour,1,[55]
+filled,1,[96]
+finest,1,[293]
+finger,5,"[311, 324, 395, 409, 459]"
+fingers,6,"[330, 339, 373, 448, 466, 471]"
+first,2,"[72, 495]"
+flat,1,[192]
+following,1,[528]
+forefinger,5,"[313, 345, 379, 424, 506]"
+form,1,[333]
+formed,2,"[419, 501]"
+forming,1,[167]
+forms,1,[559]
+fourth,1,[394]
+free,1,[548]
+french,1,[49]
+freq,1,[102]
+frequently,1,[284]
+front,1,[451]
+gained,1,[98]
+generations,1,[57]
+german,1,[51]
+given,1,[141]
+gu,1,[468]
+guipure,1,[33]
+half,2,"[429, 475]"
+hand,11,"[308, 332, 351, 382, 408, 427, 442, 450, 464, 473, 602]"
+hands,2,"[363, 432]"
+hands._,1,[304]
+held,1,[504]
+hold,1,[303]
+holds,1,[354]
+humb,1,[309]
+huttle,1,[187]
+ide,2,"[401, 469]"
+illustration,3,"[41, 158, 207]"
+imitation,1,[170]
+impeded,1,[393]
+improving,1,[63]
+inch,1,[544]
+inconvenient,1,[253]
+indebted,1,[115]
+indeed,1,[67]
+ingenious,1,[137]
+ingenuity,1,[60]
+initials,2,"[19, 21]"
+inlaid,2,"[216, 231]"
+insertion,1,[526]
+instance,1,[520]
+instead,2,"[89, 434]"
+instructions,9,"[3, 7, 11, 13, 27, 31, 37, 40, 147]"
+instrument,1,[183]
+intended,2,"[169, 255]"
+interesting,1,[155]
+introduction,1,[85]
+ivory,2,"[198, 213]"
+joined,2,"[202, 631]"
+joining,1,[104]
+keep,2,"[362, 431]"
+keeping,1,[336]
+kept,1,[95]
+kinds,1,[273]
+king,1,[615]
+knitting,3,"[10, 14, 599]"
+knots,1,[181]
+l,1,[334]
+lace,4,"[23, 26, 29, 172]"
+ladies,1,[114]
+large,1,[596]
+largest,1,[300]
+last,1,[498]
+late,1,[144]
+learning,1,[153]
+lef,1,[565]
+left,9,"[331, 407, 426, 449, 472, 545, 547, 580, 601]"
+length,1,[581]
+let,1,[443]
+letting,3,"[346, 435, 461]"
+liberty,1,[315]
+linen,1,[176]
+little,1,[340]
+loop,11,"[369, 378, 390, 402, 415, 460, 484, 492, 500, 514, 549]"
+made,7,"[196, 289, 489, 535, 541, 550, 588]"
+make,5,"[179, 360, 483, 510, 610]"
+making,2,"[119, 531]"
+manufactured,2,"[220, 274]"
+matters,1,[79]
+may,2,"[583, 604]"
+mdlle,1,[106]
+medium,1,[297]
+mee,1,[75]
+messrs.,1,[275]
+method,1,[530]
+middle,2,"[323, 329]"
+mode,1,[152]
+modern,1,[59]
+monograms,2,"[18, 20]"
+mrs.,1,[74]
+much,1,[142]
+must,3,"[392, 420, 574]"
+nail,1,[358]
+necessity,1,[99]
+needle,4,"[113, 135, 598, 600]"
+needlework,1,[44]
+netting,2,"[12, 15]"
+number,2,"[487, 572]"
+obviated,1,[101]
+often,1,[516]
+old,1,[124]
+one,4,"[76, 193, 239, 542]"
+oop,1,[335]
+ordinary,1,[272]
+original,1,[64]
+outer,1,[522]
+oval,2,"[190, 200]"
+ovals,1,[524]
+palm,1,[350]
+part,1,[317]
+parts,1,[404]
+pass,3,"[366, 412, 439]"
+passes,1,[356]
+pattern,2,"[120, 131]"
+patterns,6,"[1, 5, 9, 16, 30, 32]"
+pearl,3,"[214, 217, 228]"
+perfectly,1,[584]
+piece,2,"[206, 554]"
+pieces,3,"[191, 201, 578]"
+pin,5,"[160, 595, 614, 622, 627]"
+place,2,"[325, 539]"
+plan,3,"[65, 86, 125]"
+point,5,"[22, 25, 28, 171, 603]"
+portions,2,"[129, 132]"
+position,2,"[364, 433]"
+practised,1,[73]
+preceding,1,[621]
+prices,1,[235]
+primitive,1,[69]
+printed,1,[148]
+process,1,[502]
+proper,1,[268]
+provided,1,[126]
+purl,7,"[532, 540, 560, 582, 586, 611, 628]"
+purl._,1,[511]
+purpose,1,[279]
+push,1,[619]
+quite,1,[536]
+rather,1,[68]
+red,1,[224]
+reel,1,[88]
+remain,1,[314]
+remaining,1,[428]
+required,1,[562]
+rest,1,[316]
+riego,1,[107]
+right,3,"[307, 381, 387]"
+round,3,"[258, 327, 521]"
+row,1,[607]
+ry,1,[237]
+second,8,"[310, 320, 337, 371, 406, 446, 458, 474]"
+see,1,[246]
+seems,1,[53]
+selecting,1,[243]
+several,2,"[56, 561]"
+sewn,1,[133]
+shilling,1,[240]
+shows,1,[208]
+shuttle,14,"[43, 90, 93, 210, 230, 234, 244, 259, 306, 318, 355, 367, 376, 444]"
+shuttles,1,[211]
+side,1,[194]
+silver,1,[218]
+sixpence,2,"[238, 242]"
+sixth,1,[543]
+size,1,[298]
+sizes,1,[291]
+slide,1,[397]
+small,5,"[182, 513, 553, 563, 577]"
+soon,1,[250]
+sort,1,[70]
+space,3,"[546, 556, 564]"
+stitch,5,"[430, 476, 496, 616, 618]"
+stitch._,1,[361]
+stitch_,2,"[417, 480]"
+stitches,11,"[166, 180, 488, 503, 534, 552, 558, 569, 608, 625, 629]"
+strain,2,"[383, 454]"
+straining,1,[493]
+strength,1,[178]
+strong,1,[204]
+stronger,1,[271]
+style,1,[264]
+sweep,1,[465]
+table,1,[82]
+take,5,"[305, 374, 452, 593, 626]"
+taken,1,[575]
+tatted,1,[525]
+tatting,12,"[0, 38, 39, 42, 46, 66, 146, 159, 161, 269, 519, 594]"
+tatting._,1,[485]
+thickness,1,[260]
+third,4,"[321, 338, 372, 447]"
+thread,5,"[105, 117, 136, 326, 592]"
+three,2,"[328, 568]"
+throw,1,[612]
+thumb,6,"[344, 357, 380, 425, 438, 507]"
+thus,4,"[418, 477, 499, 589]"
+tight,1,[399]
+tightened,1,[421]
+tightly,4,"[385, 456, 490, 505]"
+time,1,[590]
+together,4,"[134, 203, 538, 632]"
+tortoiseshell,2,"[215, 232]"
+touches,1,[497]
+towards,1,[386]
+trimming,1,[175]
+two,5,"[189, 199, 241, 403, 567]"
+uently,1,[103]
+uniting,1,[551]
+unoccupied,1,[470]
+unthreaded,1,[252]
+use,1,[267]
+used,6,"[118, 121, 174, 184, 285, 517]"
+useful,1,[296]
+va,1,[236]
+varies,1,[262]
+walter,1,[276]
+way,3,"[302, 482, 509]"
+ways,1,[62]
+well,1,[287]
+white,2,"[225, 229]"
+wish,1,[609]
+withdraw,2,"[405, 457]"
+within,1,[349]
+wood,1,[197]
+work,9,"[24, 36, 52, 81, 123, 157, 227, 256, 265]"
+workers,1,[138]
+working,2,"[87, 127]"
+wound,1,[257]

@@ -1,0 +1,409 @@
+!,'','d,'em,'ll,'m,'ve,--,?,_is_,``,able,afraid,air,alarmed,alice,alone,among,angrily,angry,animal,animals,ann,another,anxiously,anything,anyway,appeared,apples,arm,arms,arranged,arrum,attempt,away,b,back,bark,barking,bear,begin,behind,believe,best,bill,bit,blades,bottle,box,breaking,breath,bring,burn,business,buttercup,called,cam,came,cart,case,catch,caused,certainly,chapter,charges,chimney,chorus,circumstances,close,co,coax,coaxing,come,comes,coming,concluded,confusion,corner,could,coward,crash,crowd,cucumber,dart,deal,dear,delight,devour,difficulty,digging,dinah,dis,dodged,door,doubt,drew,drink,e,eat,eing,elbow,ely,enormous,enough,escape,ever,every,everything,excellent,expecting,eyes,f,failure,faint,fall,fallen,fancied,fancy,fanned,far,feeble,feebly,feet,fellow,fetch,fills,find,fireplace,first,flowers,fluster,foot,forgetting,forgotten,forwards,found,frame,frames,game,garden,gave,general,get,getting,giving,glass,gloves,go,goes,good,goose,got,grass,great,green,grow,guess,guinea,ha,half,hand,hanging,happen,happened,hard,hardest,hardly,hat,hea,head,heads,hear,heard,hearing,hedge,heels,held,help,high,hoarsely,hold,honour,horse,house,hungry,hurry,i'd,idea,iii,illustration,inches,indeed,ing,inwards,ion,jack,jumped,keep,kick,knew,know,knowing,ladder,large,last,leant,let,like,liked,littl,little,lizard,long,longer,look,looked,looking,loose,loud,lov,lying,made,making,managed,many,mary,master,mice,might,mind,minute,minutes,moment,mouth,mushroom,must,n,n't,nay,nd,near,nearly,neatly,never,next,number,oh,old,one,open,opened,opportunity,ought,outside,panting,particular,pat,pattering,paw,peering,picked,pigs,place,plan,play,poor,posit,possible,presently,pretty,probably,pronounced,proved,pulling,puppy,put,question,quick,quite,rabbit,rabbit's,ran,rd,reach,reason,rest,right,rocket,roof,rope,round,rumbling,run,running,rush,rushed,said,sat,saw,say,saying,says,scrambling,scratching,second,see,seem,seemed,self,series,set,sha'n't,sharp,shook,short,shriek,shrieks,shure,shut,side,silence,simply,size,slate,smaller,smallest,snatch,something,soon,sort,sound,sounded,spite,spread,squeaking,squirrels,stairs,stick,stop,stretching,suddenly,supported,suppose,sure,take,talking,tance,teaching,tell,terribly,thick,thing,think,thinking,thistle,thought,thousand,three,tie,tight,till,time,times,tired,together,tone,tongue,trampled,trees,trembled,tricks,tried,trying,tumbled,two,uld,uncomfortable,upon,us,voice,voices,waited,waiting,wandered,want,way,well,wh,wheels,where's,whereupon,whispers,whistle,white,whole,window,wish,without,wo,wo'n't,wonder,wood,word,worry,would,yelp,yer,yet
+!,38,"[3, 6, 14, 64, 108, 118, 124, 130, 138, 156, 165, 190, 204, 209, 231, 239, 244, 251, 306, 322, 324, 341, 342, 352, 358, 376, 390, 432, 440, 487, 492, 500, 514, 654, 788, 805, 807, 814]"
+'',44,"[0, 7, 15, 61, 65, 105, 110, 125, 131, 139, 150, 157, 161, 177, 183, 191, 205, 210, 226, 232, 252, 326, 359, 367, 391, 414, 433, 441, 455, 464, 488, 493, 501, 515, 520, 524, 560, 562, 590, 595, 614, 655, 789, 828]"
+'d,1,[808]
+'em,2,"[284, 288]"
+'ll,4,"[56, 237, 299, 511]"
+'m,3,"[117, 245, 473]"
+'ve,3,"[355, 593, 811]"
+--,24,"[102, 104, 140, 225, 276, 282, 286, 291, 297, 304, 311, 315, 319, 325, 331, 334, 338, 343, 346, 350, 472, 476, 554, 801]"
+?,15,"[109, 149, 170, 176, 275, 314, 330, 337, 366, 450, 452, 523, 819, 827, 833]"
+_is_,1,[817]
+``,32,"[10, 55, 62, 115, 126, 135, 144, 151, 159, 162, 178, 184, 198, 206, 235, 272, 329, 360, 370, 412, 429, 437, 447, 462, 468, 489, 496, 510, 600, 651, 783, 797]"
+able,1,[531]
+afraid,1,[38]
+air,3,"[79, 218, 687]"
+alarmed,1,[665]
+alice,18,"[22, 47, 52, 67, 194, 234, 369, 466, 505, 518, 579, 597, 657, 696, 719, 764, 791, 834]"
+alone,1,[436]
+among,1,[628]
+angrily,1,[134]
+angry,1,[100]
+animal,1,[401]
+animals,1,[551]
+ann,2,"[2, 5]"
+another,4,"[216, 444, 571, 710]"
+anxiously,1,[627]
+anything,3,"[82, 257, 842]"
+anyway,1,[121]
+appeared,2,"[578, 706]"
+apples,2,"[120, 128]"
+arm,4,"[153, 163, 168, 182]"
+arms,1,[567]
+arranged,1,[621]
+arrum,1,[160]
+attempt,1,[49]
+away,1,[189]
+b,1,[702]
+back,1,[747]
+bark,2,"[633, 773]"
+barking,1,[748]
+bear,1,[313]
+begin,1,[735]
+behind,1,[698]
+believe,1,[694]
+best,1,[612]
+bill,12,"[280, 305, 332, 347, 351, 362, 375, 379, 413, 431, 463, 561]"
+bit,1,[680]
+blades,1,[838]
+bottle,1,[574]
+box,1,[481]
+breaking,3,"[88, 142, 223]"
+breath,1,[782]
+bring,1,[278]
+burn,1,[498]
+business,1,[186]
+buttercup,1,[793]
+called,1,[506]
+cam,1,[16]
+came,4,"[41, 99, 259, 457]"
+cart,2,"[262, 724]"
+case,1,[669]
+catch,2,"[307, 438]"
+caused,1,[516]
+certainly,1,[831]
+chapter,1,[587]
+charges,1,[738]
+chimney,5,"[336, 357, 365, 395, 408]"
+chorus,1,[428]
+circumstances,1,[848]
+close,1,[409]
+co,1,[508]
+coax,1,[658]
+coaxing,1,[674]
+come,2,"[136, 364]"
+comes,1,[478]
+coming,3,"[25, 147, 321]"
+concluded,1,[90]
+confusion,1,[445]
+corner,1,[285]
+could,6,"[195, 243, 396, 402, 546, 840]"
+coward,1,[208]
+crash,2,"[87, 328]"
+crowd,1,[549]
+cucumber,2,"[93, 228]"
+dart,1,[711]
+deal,1,[382]
+dear,1,[785]
+delight,2,"[527, 690]"
+devour,1,[672]
+difficulty,1,[622]
+digging,2,"[119, 127]"
+dinah,2,"[513, 522]"
+dis,1,[777]
+dodged,1,[697]
+door,1,[42]
+doubt,1,[618]
+drew,1,[392]
+drink,1,[823]
+e,2,"[17, 679]"
+eat,2,"[822, 847]"
+eing,1,[703]
+elbow,1,[48]
+ely,1,[609]
+enormous,1,[639]
+enough,2,"[295, 301]"
+escape,1,[768]
+ever,1,[166]
+every,1,[727]
+everything,1,[373]
+excellent,1,[616]
+expecting,1,[726]
+eyes,2,"[644, 760]"
+f,1,[309]
+failure,1,[51]
+faint,1,[776]
+fall,1,[86]
+fallen,1,[92]
+fancied,1,[70]
+fancy,1,[333]
+fanned,1,[795]
+far,1,[394]
+feeble,1,[459]
+feebly,1,[645]
+feet,3,"[20, 688, 730]"
+fellow,2,"[449, 491]"
+fetch,1,[11]
+fills,1,[171]
+find,1,[606]
+fireplace,1,[383]
+first,3,"[290, 425, 591]"
+flowers,1,[837]
+fluster,1,[474]
+foot,1,[393]
+forgetting,1,[32]
+forgotten,1,[810]
+forwards,1,[743]
+found,3,"[525, 547, 583]"
+frame,1,[94]
+frames,1,[229]
+game,1,[722]
+garden,1,[610]
+gave,1,[415]
+general,1,[427]
+get,5,"[59, 80, 521, 532, 717]"
+getting,1,[528]
+giving,1,[572]
+glass,3,"[89, 143, 224]"
+gloves,1,[12]
+go,5,"[57, 187, 335, 349, 356]"
+goes,2,"[430, 484]"
+good,4,"[265, 381, 753, 765]"
+goose,1,[164]
+got,5,"[281, 348, 363, 594, 812]"
+grass,1,[839]
+great,6,"[526, 637, 699, 759, 825, 829]"
+green,1,[564]
+grow,2,"[601, 813]"
+guess,1,[404]
+guinea,2,"[555, 569]"
+ha,1,[213]
+half,1,[761]
+hand,1,[76]
+hanging,1,[757]
+happen,1,[422]
+happened,1,[451]
+hard,1,[662]
+hardest,1,[581]
+hardly,2,"[470, 675]"
+hat,1,[796]
+hea,1,[113]
+head,2,"[634, 714]"
+heads,1,[323]
+hear,1,[196]
+heard,4,"[53, 71, 83, 399]"
+hearing,1,[256]
+hedge,1,[439]
+heels,1,[715]
+held,1,[682]
+help,1,[137]
+high,2,"[294, 542]"
+hoarsely,1,[749]
+hold,3,"[81, 308, 718]"
+honour,4,"[123, 155, 181, 203]"
+horse,1,[725]
+house,3,"[30, 499, 544]"
+hungry,1,[668]
+hurry,2,"[638, 716]"
+i'd,1,[802]
+idea,1,[624]
+iii,1,[588]
+illustration,4,"[97, 424, 586, 589]"
+inches,1,[541]
+indeed,1,[129]
+ing,1,[659]
+inwards,1,[46]
+ion,1,[535]
+jack,1,[480]
+jumped,1,[686]
+keep,1,[701]
+kick,2,"[388, 418]"
+knew,1,[23]
+know,1,[471]
+knowing,1,[676]
+ladder,1,[274]
+large,3,"[35, 642, 849]"
+last,4,"[211, 258, 456, 751]"
+leant,1,[792]
+let,1,[815]
+like,5,"[201, 479, 485, 721, 844]"
+liked,1,[798]
+littl,1,[678]
+little,12,"[18, 84, 221, 261, 389, 400, 458, 550, 563, 631, 741, 786]"
+lizard,1,[565]
+long,2,"[192, 745]"
+longer,1,[250]
+look,2,"[26, 636]"
+looked,2,"[835, 843]"
+looking,1,[641]
+loose,1,[317]
+loud,2,"[327, 507]"
+lov,1,[608]
+lying,1,[536]
+made,7,"[77, 215, 270, 575, 635, 693, 709]"
+making,1,[767]
+managed,1,[818]
+many,1,[266]
+mary,2,"[1, 4]"
+master,1,[353]
+mice,1,[558]
+might,1,[667]
+mind,1,[316]
+minute,1,[483]
+minutes,1,[539]
+moment,4,"[13, 577, 705, 728]"
+mouth,1,[758]
+mushroom,1,[850]
+must,2,"[230, 497]"
+n,2,"[410, 442]"
+n't,9,"[174, 200, 247, 277, 292, 302, 345, 378, 403]"
+nay,1,[339]
+nd,1,[214]
+near,1,[851]
+nearly,1,[809]
+neatly,1,[619]
+never,1,[112]
+next,4,"[98, 238, 423, 482]"
+number,1,[227]
+oh,4,"[298, 320, 361, 806]"
+old,2,"[448, 490]"
+one,5,"[279, 386, 416, 568, 647]"
+open,1,[44]
+opened,1,[45]
+opportunity,1,[766]
+ought,1,[821]
+outside,1,[553]
+panting,1,[755]
+particular,1,[303]
+pat,3,"[106, 107, 146]"
+pattering,1,[19]
+paw,1,[648]
+peering,1,[626]
+picked,1,[677]
+pigs,2,"[556, 570]"
+place,1,[380]
+plan,2,"[613, 617]"
+play,1,[723]
+poor,1,[652]
+posit,1,[534]
+possible,1,[91]
+presently,1,[39]
+pretty,1,[384]
+probably,1,[671]
+pronounced,1,[158]
+proved,1,[50]
+pulling,1,[240]
+puppy,7,"[640, 683, 685, 708, 734, 772, 787]"
+put,2,"[283, 372]"
+question,2,"[826, 830]"
+quick,1,[545]
+quite,4,"[31, 548, 775, 780]"
+rabbit,7,"[24, 36, 40, 72, 133, 434, 504]"
+rabbit's,1,[103]
+ran,4,"[543, 580, 731, 770]"
+rd,1,[114]
+reach,2,"[293, 650]"
+reason,1,[37]
+rest,1,[794]
+right,3,"[602, 803, 845]"
+rocket,1,[486]
+roof,1,[312]
+rope,1,[310]
+round,5,"[58, 630, 643, 732, 836]"
+rumbling,1,[260]
+run,1,[704]
+running,1,[740]
+rush,1,[576]
+rushed,1,[691]
+said,9,"[8, 132, 368, 467, 494, 502, 596, 656, 790]"
+sat,1,[752]
+saw,1,[167]
+say,1,[54]
+saying,1,[411]
+says,1,[354]
+scrambling,1,[407]
+scratching,1,[406]
+second,1,[604]
+see,4,"[175, 420, 816, 841]"
+seem,1,[371]
+seemed,1,[763]
+self,1,[475]
+series,1,[736]
+set,3,"[512, 625, 769]"
+sha'n't,1,[340]
+sharp,2,"[417, 632]"
+shook,1,[29]
+short,1,[737]
+shriek,1,[85]
+shrieks,1,[222]
+shure,4,"[116, 152, 179, 199]"
+shut,1,[762]
+side,1,[707]
+silence,3,"[193, 443, 517]"
+simply,1,[620]
+size,3,"[169, 603, 804]"
+slate,1,[318]
+smaller,1,[529]
+smallest,1,[623]
+snatch,2,"[78, 217]"
+something,4,"[95, 477, 573, 824]"
+soon,2,"[530, 582]"
+sort,2,"[96, 405]"
+sound,2,"[141, 264]"
+sounded,2,"[615, 774]"
+spite,1,[673]
+spread,2,"[75, 212]"
+squeaking,1,[460]
+squirrels,1,[559]
+stairs,1,[21]
+stick,4,"[681, 692, 712, 739]"
+stop,1,[249]
+stretching,1,[646]
+suddenly,1,[74]
+supported,1,[566]
+suppose,1,[820]
+sure,1,[246]
+take,1,[188]
+talking,1,[268]
+tance,1,[778]
+teaching,1,[799]
+tell,3,"[145, 207, 453]"
+terribly,1,[664]
+thick,1,[584]
+thing,5,"[426, 592, 605, 653, 846]"
+think,2,"[387, 611]"
+thinking,2,"[519, 720]"
+thistle,2,"[700, 733]"
+thought,4,"[66, 233, 465, 666]"
+thousand,1,[33]
+three,2,"[538, 540]"
+tie,1,[287]
+tight,1,[385]
+till,6,"[28, 69, 398, 750, 771, 779]"
+time,3,"[219, 254, 744]"
+times,1,[34]
+tired,1,[781]
+together,2,"[269, 289]"
+tone,1,[660]
+tongue,1,[756]
+trampled,1,[729]
+trees,1,[629]
+trembled,1,[27]
+tricks,1,[800]
+tried,2,"[43, 661]"
+trying,1,[649]
+tumbled,1,[713]
+two,2,"[220, 537]"
+uld,1,[509]
+uncomfortable,1,[533]
+upon,1,[374]
+us,1,[454]
+voice,6,"[9, 101, 111, 435, 461, 503]"
+voices,3,"[267, 446, 495]"
+waited,3,"[253, 397, 419]"
+waiting,2,"[68, 552]"
+wandered,1,[598]
+want,1,[248]
+way,4,"[607, 742, 746, 754]"
+well,3,"[185, 300, 469]"
+wh,1,[832]
+wheels,1,[263]
+where's,1,[273]
+whereupon,1,[684]
+whispers,1,[197]
+whistle,1,[663]
+white,1,[557]
+whole,1,[172]
+window,5,"[60, 73, 148, 173, 241]"
+wish,1,[242]
+without,1,[255]
+wo,1,[344]
+wo'n't,1,[63]
+wonder,1,[236]
+wood,2,"[585, 599]"
+word,1,[271]
+worry,1,[695]
+would,3,"[377, 421, 670]"
+yelp,1,[689]
+yer,4,"[122, 154, 180, 202]"
+yet,2,"[296, 784]"

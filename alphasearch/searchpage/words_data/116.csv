@@ -1,0 +1,259 @@
+&,--,1,10,100,1st,2,20,2nd,3,3/4,3rd,4,40,46,47,48,49,5,50,5th,6,60,7,8,80,9,_cravat,_linen,_point,_rosette,_tatted,able,afresh,also,alternately,always,another,articles,away,b,back,bag,begin,beginning,border,border._,bric,button,c.,cam,cambric,centre,chain,circle,circles,co,co.,collar,come,commenced,completed,composed,consisting,consists,continue,corner,corners,cotton,couvrettes,cover,cravat,crochet,cut,de,deep,depends,diamond,ding,distance,divided,double,downwards,draw,drawing,drawn,e,easy,ed,edge,edged,edges,edging,eight,elegant,embroidered,embroidery,end,ends,enough,etween,evans,even,every,fall,fasten,fastened,fifth,fine,first,fold,following,follows,forefinger,form,formed,former,forms,foundation,four,fourth,fresh,han,hand,held,hemmed,hole,illustration,inches,ing,instead,join,joined,keep,knitting,knot,knotted,la,lace,large,larger,last,latter,leaf,leaves,left,let,lies,like,lined,linen,long,longer,loop,mak,make,manner,material,materials,meant,merely,messrs.,middle,minute_,miss,muslin,must,narrow,nearest,neatly,next,one,ones,open,order,original,orked,ornamented,outer,p,pattern,patterns,pin,place,placed,point,pointed,prece,preceding,pretty,purl,put,raised,receding,repeat,rger,right,rosette,round,row,rows,say,second,see,separately,sew,sewn,shall,short,shuttle,side,sides,similar,size,slip,small,smaller,soiled,stitch,stitches,strip,take,taking,tat,tatt,tatted,tatting,tatting._,th,therefore,thumb,till,times,ting,together,top,treble,trimmed,trimming,trimmings,turn,twice,two,underneath,upon,upper,upwards,used,w,walter,way,wide,wish,work,worked,working,wrong,yard
+&,1,[6]
+--,19,"[2, 48, 64, 75, 146, 232, 272, 391, 458, 463, 482, 599, 650, 666, 730, 773, 779, 865, 904]"
+1,50,"[80, 84, 88, 149, 154, 200, 211, 215, 238, 250, 257, 261, 266, 359, 374, 389, 394, 399, 407, 604, 612, 688, 731, 733, 739, 741, 745, 751, 753, 757, 780, 785, 789, 797, 805, 810, 822, 840, 845, 866, 871, 875, 882, 884, 888, 900, 915, 922, 924, 928]"
+10,3,"[521, 783, 791]"
+100,2,"[679, 704]"
+1st,13,"[76, 184, 186, 209, 233, 240, 242, 252, 264, 454, 767, 769, 896]"
+2,27,"[61, 70, 78, 90, 147, 227, 235, 245, 392, 396, 402, 405, 409, 433, 479, 518, 525, 528, 602, 736, 760, 787, 817, 828, 833, 879, 919]"
+20,1,[284]
+2nd,8,"[121, 248, 363, 763, 898, 937, 939, 949]"
+3,13,"[29, 33, 82, 86, 152, 156, 259, 290, 505, 608, 682, 743, 755]"
+3/4,1,[30]
+3rd,1,[860]
+4,7,"[294, 428, 435, 748, 913, 917, 926]"
+40,1,[58]
+46,1,[1]
+47,2,"[47, 63]"
+48,2,"[271, 457]"
+49,2,"[462, 481]"
+5,6,"[213, 430, 873, 886, 905, 930]"
+50,3,"[287, 665, 772]"
+5th,1,[369]
+6,8,"[498, 501, 508, 691, 869, 877, 890, 941]"
+60,1,[475]
+7,4,"[198, 202, 820, 824]"
+8,2,"[843, 847]"
+80,1,[347]
+9,2,"[808, 812]"
+_cravat,1,[667]
+_linen,1,[464]
+_point,1,[321]
+_rosette,1,[273]
+_tatted,1,[49]
+able,1,[350]
+afresh,2,"[636, 859]"
+also,2,"[137, 837]"
+alternately,1,[601]
+always,1,[631]
+another,3,"[124, 452, 547]"
+articles,1,[302]
+away,2,"[588, 971]"
+b,1,[826]
+back,2,"[574, 591]"
+bag,3,"[4, 10, 17]"
+begin,3,"[67, 514, 723]"
+beginning,3,"[340, 762, 953]"
+border,7,"[66, 69, 100, 225, 386, 623, 643]"
+border._,1,[50]
+bric,1,[669]
+button,4,"[329, 352, 962, 979]"
+c.,1,[7]
+cam,1,[668]
+cambric,1,[686]
+centre,8,"[314, 325, 493, 495, 544, 554, 629, 725]"
+chain,10,"[239, 246, 253, 260, 346, 357, 400, 603, 609, 653]"
+circle,32,"[94, 96, 107, 110, 116, 150, 159, 181, 185, 201, 208, 212, 216, 221, 241, 343, 372, 383, 413, 424, 630, 726, 781, 798, 806, 841, 851, 867, 901, 911, 938, 948]"
+circles,13,"[46, 327, 337, 341, 365, 440, 448, 617, 659, 818, 835, 943, 986]"
+co,1,[472]
+co.,3,"[55, 281, 676]"
+collar,5,"[465, 484, 491, 586, 625]"
+come,1,[573]
+commenced,1,[492]
+completed,2,"[16, 957]"
+composed,2,"[607, 647]"
+consisting,9,"[43, 151, 344, 427, 782, 807, 819, 842, 868]"
+consists,1,[684]
+continue,1,[570]
+corner,4,"[490, 559, 568, 576]"
+corners,1,[535]
+cotton,31,"[57, 130, 133, 134, 161, 172, 189, 194, 283, 286, 293, 313, 336, 339, 362, 367, 474, 512, 539, 580, 634, 678, 703, 766, 794, 830, 854, 858, 893, 944, 955]"
+couvrettes,2,"[291, 307]"
+cover,1,[595]
+cravat,7,"[683, 697, 710, 712, 719, 774, 961]"
+crochet,8,"[228, 292, 338, 371, 382, 597, 646, 664]"
+cut,4,"[513, 579, 587, 970]"
+de,1,[322]
+deep,1,[32]
+depends,1,[23]
+diamond,3,"[487, 536, 582]"
+ding,1,[255]
+distance,3,"[98, 426, 895]"
+divided,8,"[237, 432, 503, 523, 738, 750, 881, 921]"
+double,50,"[79, 83, 87, 91, 148, 153, 157, 199, 203, 214, 360, 380, 393, 397, 406, 410, 429, 434, 436, 499, 506, 509, 519, 526, 529, 732, 737, 744, 749, 756, 761, 784, 788, 792, 809, 813, 821, 825, 844, 848, 870, 874, 880, 887, 891, 906, 914, 920, 927, 931]"
+downwards,1,[166]
+draw,1,[92]
+drawing,2,"[188, 193]"
+drawn,1,[18]
+e,3,"[857, 936, 984]"
+easy,1,[615]
+ed,1,[334]
+edge,2,"[224, 642]"
+edged,1,[720]
+edges,1,[592]
+edging,1,[598]
+eight,1,[638]
+elegant,2,"[68, 622]"
+embroidered,1,[317]
+embroidery,3,"[274, 332, 460]"
+end,4,"[132, 709, 711, 954]"
+ends,1,[696]
+enough,1,[102]
+etween,1,[827]
+evans,4,"[54, 280, 471, 675]"
+even,1,[305]
+every,2,"[368, 443]"
+fall,1,[165]
+fasten,12,"[351, 361, 366, 511, 538, 578, 765, 793, 829, 853, 855, 892]"
+fastened,11,"[398, 442, 450, 635, 802, 814, 836, 849, 907, 932, 945]"
+fifth,1,[988]
+fine,2,"[303, 312]"
+first,2,"[105, 575]"
+fold,1,[590]
+following,7,"[73, 144, 220, 230, 596, 728, 863]"
+follows,3,"[388, 778, 903]"
+forefinger,1,[140]
+form,2,"[158, 621]"
+formed,2,"[316, 652]"
+former,1,[309]
+forms,2,"[299, 533]"
+foundation,2,"[345, 356]"
+four,2,"[494, 543]"
+fourth,1,[540]
+fresh,1,[515]
+han,1,[136]
+hand,6,"[142, 163, 171, 175, 178, 196]"
+held,1,[138]
+hemmed,2,"[36, 694]"
+hole,4,"[330, 353, 963, 980]"
+illustration,7,"[0, 62, 456, 480, 562, 620, 771]"
+inches,3,"[31, 34, 692]"
+ing,1,[619]
+instead,1,[103]
+join,4,"[109, 180, 411, 551]"
+joined,4,"[204, 217, 296, 610]"
+keep,1,[12]
+knitting,2,"[282, 335]"
+knot,1,[952]
+knotted,1,[976]
+la,1,[422]
+lace,3,"[42, 722, 982]"
+large,1,[44]
+larger,1,[446]
+last,2,"[557, 908]"
+latter,1,[606]
+leaf,7,"[516, 532, 548, 552, 560, 569, 577]"
+leaves,4,"[496, 545, 565, 640]"
+left,5,"[128, 141, 162, 170, 177]"
+let,1,[160]
+lies,1,[418]
+like,2,"[191, 799]"
+lined,1,[714]
+linen,4,"[3, 9, 304, 483]"
+long,2,"[101, 690]"
+longer,1,[119]
+loop,4,"[127, 168, 192, 197]"
+mak,1,[983]
+make,4,"[126, 167, 342, 600]"
+manner,5,"[74, 231, 572, 729, 864]"
+material,3,"[589, 718, 960]"
+materials,4,"[51, 276, 468, 672]"
+meant,1,[11]
+merely,1,[627]
+messrs.,4,"[52, 278, 469, 673]"
+middle,5,"[120, 182, 205, 218, 708]"
+minute_,1,[323]
+miss,1,[265]
+muslin,4,"[670, 687, 775, 969]"
+must,5,"[108, 117, 310, 441, 449]"
+narrow,1,[40]
+nearest,1,[946]
+neatly,1,[594]
+next,8,"[207, 795, 803, 815, 831, 838, 850, 933]"
+one,11,"[113, 451, 504, 524, 534, 542, 567, 651, 801, 966, 987]"
+ones,1,[298]
+open,2,"[376, 662]"
+order,1,[349]
+original,1,[27]
+orked,1,[645]
+ornamented,1,[698]
+outer,1,[639]
+p,1,[111]
+pattern,6,"[28, 319, 488, 537, 571, 583]"
+patterns,1,[699]
+pin,4,"[60, 289, 478, 681]"
+place,2,"[453, 581]"
+placed,1,[489]
+point,1,[585]
+pointed,1,[713]
+prece,1,[254]
+preceding,4,"[268, 550, 800, 910]"
+pretty,2,"[8, 300]"
+purl,54,"[81, 85, 89, 106, 114, 155, 183, 190, 206, 219, 258, 395, 408, 431, 455, 502, 522, 541, 555, 558, 605, 658, 734, 740, 742, 746, 752, 754, 758, 768, 786, 790, 796, 804, 811, 816, 823, 832, 839, 846, 872, 876, 883, 885, 889, 897, 909, 916, 923, 925, 929, 934, 947, 967]"
+put,1,[26]
+raised,1,[318]
+receding,1,[112]
+repeat,8,"[95, 222, 247, 270, 438, 759, 852, 951]"
+rger,1,[423]
+right,3,"[135, 174, 195]"
+rosette,8,"[295, 315, 387, 459, 705, 724, 958, 973]"
+round,16,"[20, 37, 169, 324, 364, 375, 390, 624, 764, 770, 861, 899, 912, 940, 950, 975]"
+row,10,"[77, 122, 187, 210, 234, 243, 249, 256, 269, 985]"
+rows,3,"[71, 229, 649]"
+say,1,[628]
+second,1,[421]
+see,1,[561]
+separately,1,[633]
+sew,1,[593]
+sewn,2,"[707, 959]"
+shall,1,[626]
+short,3,"[97, 425, 894]"
+shuttle,4,"[125, 164, 173, 179]"
+side,3,"[129, 417, 716]"
+sides,2,"[115, 695]"
+similar,5,"[297, 549, 564, 834, 942]"
+size,1,[22]
+slip,3,"[262, 613, 655]"
+small,4,"[45, 306, 326, 531]"
+smaller,2,"[439, 447]"
+soiled,1,[15]
+stitch,13,"[263, 267, 331, 354, 370, 379, 381, 401, 404, 445, 614, 968, 981]"
+stitches,14,"[93, 348, 355, 412, 500, 507, 510, 520, 527, 530, 654, 656, 964, 977]"
+strip,2,"[685, 717]"
+take,2,"[123, 176]"
+taking,1,[965]
+tat,1,[476]
+tatt,1,[618]
+tatted,3,"[41, 65, 721]"
+tatting,19,"[5, 13, 56, 59, 72, 244, 285, 288, 385, 461, 473, 486, 660, 677, 680, 700, 702, 706, 776]"
+tatting._,3,"[275, 467, 671]"
+th,2,"[856, 935]"
+therefore,1,[118]
+thumb,1,[139]
+till,1,[99]
+times,2,"[878, 918]"
+ting,1,[477]
+together,3,"[19, 611, 956]"
+top,2,"[21, 38]"
+treble,6,"[236, 251, 378, 403, 444, 663]"
+trimmed,3,"[39, 466, 485]"
+trimming,1,[301]
+trimmings,1,[277]
+turn,2,"[414, 437]"
+twice,2,"[735, 747]"
+two,4,"[553, 556, 563, 648]"
+underneath,2,"[972, 978]"
+upon,2,"[24, 584]"
+upper,2,"[223, 641]"
+upwards,1,[419]
+used,1,[308]
+w,1,[644]
+walter,4,"[53, 279, 470, 674]"
+way,1,[145]
+wide,2,"[35, 693]"
+wish,1,[25]
+work,17,"[14, 131, 143, 333, 358, 373, 377, 384, 415, 420, 497, 546, 566, 616, 637, 777, 974]"
+worked,11,"[226, 311, 320, 328, 632, 657, 661, 701, 727, 862, 902]"
+working,2,"[104, 517]"
+wrong,2,"[416, 715]"
+yard,1,[689]

@@ -1,0 +1,335 @@
+!,','','mock,'re,'ve,--,30,?,_,_and,_groping,_p.p.s,_postscript._,_right,_that,_the,_touch_,``,accounting,accounts,accusation,ad,adventures,ago,air,ake,al,ali,alice,along,also,among,ancient,another,answered,appeals,around,arrived,assembled,away,bank,beat,beau,beautiful,began,beginning,begun,believe_,beneath,blasts,blew,blindly,board,boat,book,borne,boy,breeze,bright,brushing,came,cards,cares,ce,certainly,child,childhood,children,children's,choked,chorus,city,close,come,convalescen,could,crew,cried,crowd,cry,curious,custody,dainties,dance,darkness_,day,days,dear,december._,deeply,distance,dream,dreaming,e,eager,eagerl,end,even,evening,everybody,evidence,expressed,eyes,f,face,faintly,fashion,faster,feeble,feel,feeling,fellow,figure,find,finished,first,fishes,fluttered,flying,foll,following,follows,fore,found,fright,gather,gave,gazette,gentle,gently,getting,given,glad,gliding,go,god,good,great,green,ground,grown,gryphon,hand,hands,happy,hear,heard,heart,hearts,helpless,herald,hiawatha,hm,hold,homes,hospitals,hot,hurried,ice,idea,illustration,james,joined,joys,jumped,june,keep,king,kissed,knave,lap,late,laughter,leaves,life,lifted,like,listened,listening,little,lo,lobsters,long,longer,longfellow,loudly,love,loving,lying,made,many,mark,melancholy,merry,might,mock,music,n't,near,nice,none,nonsense,nothing,offended,oh,old,one,oop,ootiful,ound,oup,owed,pack,panted,parchment,party,passed,paws,perhaps,plain,please,pleasure,prefer,prettily,profits,published,queen,quiet,quite,rabbit,ran,rather,read,remembering,repeat,replied,rich,riper,river,rose,round,run,sadly,said,salmon,sang,sat,saw,scream,scroll,sea,seated,second,sentence,setting,shall,sick,sighed,simple,sing,singing,sister,sleep,slowly,sobs,sometimes,song,soo,sorrows,soup,st.,stole,stood,stoop,stream,strengthened_,summer,sun,tail,taking,tale,tarts,tastes,tea,thank,thick,thinking,thought,three,throne,till,time,toes,told,tone,tongue,took,treading,trees,trial,tried,trumpet,try,tuesday,tureen,turnings,turtle,twist,unrolled,upon,voice,voices,waiting,wake,watching,water,waters,waving,well,went,white,whole,winding,within,without,wo,woman,wonderful,words,would,wound,year,years
+!,36,"[27, 36, 39, 45, 51, 80, 92, 95, 103, 123, 132, 137, 144, 151, 163, 166, 178, 184, 207, 231, 255, 258, 288, 300, 308, 312, 323, 328, 335, 345, 377, 380, 389, 396, 415, 486]"
+',1,[100]
+'',37,"[15, 28, 33, 52, 55, 67, 75, 81, 104, 115, 167, 179, 185, 199, 208, 219, 232, 259, 274, 289, 291, 293, 298, 301, 309, 313, 324, 329, 336, 348, 381, 390, 397, 420, 603, 606, 623]"
+'mock,1,[97]
+'re,1,[341]
+'ve,2,"[388, 393]"
+--,14,"[22, 139, 142, 146, 149, 153, 156, 158, 221, 224, 226, 462, 470, 591]"
+30,1,[580]
+?,5,"[66, 74, 127, 198, 347]"
+_,1,[611]
+_and,1,[620]
+_groping,1,[612]
+_p.p.s,1,[590]
+_postscript._,1,[567]
+_right,1,[617]
+_that,1,[607]
+_the,1,[568]
+_touch_,1,[615]
+``,24,"[53, 61, 70, 76, 90, 164, 175, 182, 196, 205, 253, 296, 299, 304, 310, 319, 325, 332, 340, 375, 384, 391, 410, 601]"
+accounting,1,[93]
+accounts,1,[578]
+accusation,1,[257]
+ad,1,[365]
+adventures,3,"[403, 438, 543]"
+ago,1,[547]
+air,1,[352]
+ake,1,[534]
+al,1,[338]
+ali,1,[399]
+alice,11,"[57, 82, 189, 201, 315, 378, 421, 437, 474, 516, 545]"
+along,2,"[451, 493]"
+also,1,[597]
+among,1,[471]
+ancient,1,[445]
+another,1,[472]
+answered,1,[204]
+appeals,1,[604]
+around,3,"[44, 241, 531]"
+arrived,1,[237]
+assembled,1,[240]
+away,2,"[287, 370]"
+bank,1,[364]
+beat,1,[361]
+beau,2,"[138, 145]"
+beautiful,7,"[116, 130, 135, 160, 161, 228, 229]"
+began,2,"[109, 440]"
+beginning,1,[177]
+begun,1,[172]
+believe_,1,[605]
+beneath,2,"[16, 494]"
+blasts,1,[266]
+blew,1,[264]
+blindly,1,[613]
+board,1,[461]
+boat,2,"[457, 490]"
+book,1,[570]
+borne,1,[213]
+boy,1,[596]
+breeze,1,[214]
+bright,3,"[477, 495, 536]"
+brushing,1,[369]
+came,3,"[2, 212, 353]"
+cards,1,[344]
+cares,1,[346]
+ce,1,[400]
+certainly,1,[414]
+child,1,[557]
+childhood,1,[528]
+children,3,"[460, 533, 577]"
+children's,1,[572]
+choked,1,[112]
+chorus,2,"[32, 165]"
+city,1,[446]
+close,1,[3]
+come,4,"[35, 41, 183, 206]"
+convalescen,1,[574]
+could,1,[463]
+crew,1,[499]
+cried,3,"[168, 186, 314]"
+crowd,1,[239]
+cry,1,[174]
+curious,2,"[394, 411]"
+custody,1,[243]
+dainties,1,[124]
+dance,1,[24]
+darkness_,2,"[614, 619]"
+day,2,"[280, 497]"
+days,2,"[561, 565]"
+dear,2,"[379, 413]"
+december._,1,[589]
+deeply,1,[108]
+distance,1,[181]
+dream,7,"[395, 412, 428, 443, 487, 512, 514]"
+dreaming,1,[441]
+e,4,"[155, 157, 223, 225]"
+eager,2,"[478, 537]"
+eagerl,1,[84]
+end,2,"[194, 566]"
+even,1,[542]
+evening,4,"[129, 134, 159, 227]"
+everybody,1,[317]
+evidence,2,"[292, 307]"
+expressed,1,[594]
+eyes,2,"[479, 535]"
+f,1,[598]
+face,1,[374]
+faintly,1,[211]
+fashion,1,[442]
+faster,1,[210]
+feeble,1,[608]
+feel,1,[549]
+feeling,1,[58]
+fellow,1,[102]
+figure,2,"[60, 65]"
+find,1,[552]
+finished,1,[406]
+first,2,"[305, 322]"
+fishes,1,[46]
+fluttered,1,[372]
+flying,1,[354]
+foll,1,[215]
+following,1,[588]
+follows,1,[272]
+fore,1,[5]
+found,1,[362]
+fright,1,[359]
+gather,1,[530]
+gave,1,[356]
+gazette,1,[585]
+gentle,1,[25]
+gently,1,[368]
+getting,1,[418]
+given,1,[571]
+glad,1,[59]
+gliding,1,[456]
+go,1,[38]
+god,1,[616]
+good,1,[49]
+great,1,[238]
+green,1,[119]
+ground,1,[404]
+grown,1,[519]
+gryphon,6,"[29, 69, 85, 169, 187, 203]"
+hand,3,"[190, 250, 618]"
+hands,1,[609]
+happy,2,"[559, 563]"
+hear,1,[464]
+heard,1,[180]
+heart,1,[527]
+hearts,2,"[276, 282]"
+helpless,1,[610]
+herald,1,[254]
+hiawatha,1,[602]
+hm,1,[91]
+hold,1,[326]
+homes,1,[575]
+hospitals,1,[573]
+hot,1,[121]
+hurried,1,[191]
+ice,1,[339]
+idea,1,[320]
+illustration,3,"[273, 290, 562]"
+james,1,[584]
+joined,1,[30]
+joys,1,[555]
+jumped,1,[318]
+june,1,[579]
+keep,1,[522]
+king,4,"[233, 244, 261, 295]"
+kissed,1,[408]
+knave,2,"[242, 281]"
+lap,1,[366]
+late,1,[419]
+laughter,2,"[466, 502]"
+leaves,1,[371]
+life,1,[558]
+lifted,1,[621]
+like,1,[467]
+listened,1,[482]
+listening,1,[476]
+little,8,"[357, 436, 473, 488, 515, 532, 544, 595]"
+lo,1,[485]
+lobsters,1,[19]
+long,2,"[386, 546]"
+longer,1,[431]
+longfellow,1,[600]
+loudly,1,[316]
+love,1,[23]
+loving,1,[526]
+lying,1,[363]
+made,1,[277]
+many,2,"[507, 538]"
+mark,1,[7]
+melancholy,1,[217]
+merry,2,"[458, 498]"
+might,1,[426]
+mock,3,"[9, 105, 170]"
+music,2,"[468, 500]"
+n't,1,[334]
+near,1,[450]
+nice,1,[385]
+none,1,[48]
+nonsense,1,[311]
+nothing,1,[342]
+offended,1,[88]
+oh,2,"[77, 392]"
+old,1,[101]
+one,2,"[249, 506]"
+oop,4,"[143, 150, 154, 222]"
+ootiful,2,"[140, 147]"
+ound,1,[599]
+oup,1,[117]
+owed,1,[216]
+pack,2,"[343, 350]"
+panted,1,[200]
+parchment,2,"[252, 269]"
+party,1,[459]
+passed,1,[504]
+paws,1,[6]
+perhaps,1,[541]
+plain,1,[452]
+please,1,[79]
+pleasure,1,[553]
+prefer,1,[72]
+prettily,1,[593]
+profits,1,[569]
+published,1,[582]
+queen,4,"[234, 275, 303, 331]"
+quiet,1,[447]
+quite,1,[286]
+rabbit,2,"[247, 263]"
+ran,4,"[202, 209, 422, 424]"
+rather,1,[87]
+read,3,"[256, 271, 405]"
+remembering,1,[556]
+repeat,1,[173]
+replied,1,[83]
+rich,1,[118]
+riper,1,[523]
+river,1,[448]
+rose,1,[351]
+round,1,[505]
+run,1,[416]
+sadly,1,[13]
+said,11,"[56, 68, 86, 260, 294, 302, 330, 337, 382, 398, 409]"
+salmon,5,"[26, 34, 37, 40, 50]"
+sang,1,[11]
+sat,2,"[430, 475]"
+saw,2,"[444, 510]"
+scream,1,[358]
+scroll,2,"[251, 270]"
+sea,2,"[18, 47]"
+seated,1,[235]
+second,2,"[64, 586]"
+sentence,3,"[297, 306, 321]"
+setting,1,[433]
+shall,1,[62]
+sick,1,[576]
+sighed,1,[107]
+simple,3,"[525, 550, 554]"
+sing,2,"[96, 114]"
+singing,1,[31]
+sister,6,"[367, 383, 402, 407, 429, 489]"
+sleep,1,[387]
+slowly,3,"[12, 455, 492]"
+sobs,1,[113]
+sometimes,1,[111]
+song,3,"[73, 78, 195]"
+soo,4,"[141, 148, 152, 220]"
+sorrows,1,[551]
+soup,7,"[99, 128, 131, 133, 136, 162, 230]"
+st.,1,[583]
+stole,1,[283]
+stood,1,[245]
+stoop,1,[126]
+stream,2,"[453, 509]"
+strengthened_,1,[622]
+summer,4,"[279, 496, 560, 564]"
+sun,1,[434]
+tail,1,[43]
+taking,1,[188]
+tale,3,"[480, 484, 540]"
+tarts,2,"[278, 284]"
+tastes,1,[94]
+tea,1,[417]
+thank,1,[54]
+thick,2,"[20, 21]"
+thinking,2,"[423, 435]"
+thought,2,"[511, 592]"
+three,1,[265]
+throne,1,[236]
+till,2,"[439, 503]"
+time,2,"[8, 518]"
+toes,1,[1]
+told,2,"[401, 481]"
+tone,1,[89]
+tongue,1,[327]
+took,1,[285]
+treading,1,[0]
+trees,1,[373]
+trial,2,"[176, 197]"
+tried,1,[360]
+trumpet,2,"[248, 267]"
+try,1,[63]
+tuesday,1,[587]
+tureen,1,[122]
+turnings,1,[508]
+turtle,4,"[10, 98, 106, 171]"
+twist,1,[42]
+unrolled,1,[268]
+upon,1,[355]
+voice,1,[110]
+voices,2,"[465, 501]"
+waiting,2,"[120, 193]"
+wake,1,[376]
+watching,1,[432]
+water,1,[469]
+waters,1,[17]
+waving,1,[4]
+well,1,[425]
+went,1,[454]
+white,2,"[246, 262]"
+whole,1,[349]
+winding,1,[449]
+within,1,[513]
+without,1,[192]
+wo,1,[333]
+woman,1,[520]
+wonderful,2,"[427, 539]"
+words,3,"[14, 218, 483]"
+would,6,"[71, 125, 517, 521, 529, 548]"
+wound,1,[491]
+year,1,[581]
+years,1,[524]

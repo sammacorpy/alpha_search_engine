@@ -1,0 +1,385 @@
+&,'',--,1,10,12,14,16,18,2,20,200,22,24,26,27,30,36,4,40,500,501,502,503,504,505,506,6,8,_,_500,_fillet_,_intelle,``,aced,across,admirable,admit,along,alphabet,alternate,ancient,another,apart,appears,arranged,articles,attain,attractions,back,backwards,bar,bars,begin,beginners,beginning,better,bl,bought,braid,bruxelles,c.,called,cards,care,careful,cartisane_,ce,celebrated,centre,century,clearly,close,closely,co.,coarse,coarser,coarsest,colour,coloured,completed,completes,conne,consists,continue,convoluted,cord,corner,corners,correspond,cost,cotton,couvrettes,covered,covers,crochet,cted,cushion,cushions,d'alencon,d'art,d'esprit,darn,darning,de,decrease,decreased,derby,derives,design,designed,devoted,discontinued,dotted,double,ease,easier,easily,edge,edged,eider,eighth,either,elaborate,elegant,embroidered,employed,en,end,endpapers,england,enlarged,es,evans,even,every,examination,excel,execution,explain,eyes,facilitated,fall,fancy,far,favourite,feston,fine,finely,finer,finest,first,follow,formed,forming,forms,forwards,found,foundation,foundations,four,frame,fresh,g,gold,greatly,grecque,groundwork,guipure,half,handkerchiefs,hank,hole,holes,hours,illustration,imitation,important,inch,increase,increased,ing,initials,instance,instructions,intersected,intersecting,intervening,introduced,joined,keep,kind,knotted,l,la,lace,laced,laces,lacing,ladies,laid,large,last,le,learner,least,length,less,letter,letters,linen,lo,look,looks,loops,loose,made,make,many,mark,marking,mastered,material,materials,may,measuring,mecklenburg,mesh,meshes,messrs.,misapplied,mode,modern,mounted,mounting,much,name,narrow,nce,nearer,needles,net,netted,netting,network,next,no.10,nos,number,numbers,one,operation,opposite,ove,overcast,particularly,pass,passing,pattern,patterns,perfect,placed,plain,pocket,point,possible,practise,pretty,pricked,principal,process,purpose,quarters,quickness,quilted,quilts,r,raised,ready,regularity,remain,repeat,replaced,reprise,required,resembles,ribbon,round,row,rows,ruche,run,runs,sachet,satin,say,see,seen,series,shade,show,shown,shows,si,silk,silver,six,sixteenth,siz,sizes,skilful,small,sofa,sold,soon,sorrento,speed,spools,square,squares,stars,stitch,stitches,substance,succession,suited,table,taken,taking,tatting,tha,thin,thirty,thread,threads,three,thus,tied,tightly,till,time,together,toile,toilet,trimmimgs,tter,turn,twelve,twisted,two,uipure,unt,upon,use,used,useful,variety,various,vellum,walter,wasted,well,wh,wheels,wire,wish,without,word,words,work,worked,workers,working,yards,|,|caps,|collars,|couvrettes,|cravats,|d'oyleys,|dress,|edgings,|handkerchiefs,|insertions
+&,1,[51]
+'',1,[463]
+--,58,"[14, 20, 26, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 214, 215, 216, 217, 218, 219, 220, 221, 222, 572, 713, 757]"
+1,2,"[499, 519]"
+10,2,"[158, 668]"
+12,3,"[159, 185, 632]"
+14,1,[170]
+16,1,[633]
+18,1,[151]
+2,7,"[145, 481, 496, 524, 528, 627, 635]"
+20,2,"[634, 638]"
+200,1,[622]
+22,1,[164]
+24,1,[191]
+26,1,[511]
+27,1,[516]
+30,6,"[139, 152, 165, 171, 176, 192]"
+36,3,"[43, 133, 177]"
+4,3,"[146, 628, 745]"
+40,1,[178]
+500,1,[13]
+501,2,"[19, 86]"
+502,1,[25]
+503,3,"[571, 681, 705]"
+504,2,"[712, 744]"
+505,1,[756]
+506,1,[706]
+6,5,"[147, 183, 629, 670, 746]"
+8,4,"[157, 184, 630, 748]"
+_,1,[32]
+_500,1,[24]
+_fillet_,2,"[447, 462]"
+_intelle,1,[287]
+``,10,"[134, 135, 140, 141, 153, 166, 172, 188, 193, 461]"
+aced,1,[563]
+across,1,[739]
+admirable,1,[344]
+admit,1,[431]
+along,1,[738]
+alphabet,2,"[27, 44]"
+alternate,1,[375]
+ancient,4,"[253, 312, 407, 617]"
+another,3,"[2, 308, 310]"
+apart,1,[71]
+appears,1,[374]
+arranged,1,[371]
+articles,1,[98]
+attain,1,[584]
+attractions,1,[392]
+back,1,[62]
+backwards,1,[493]
+bar,1,[700]
+bars,1,[85]
+begin,2,"[495, 679]"
+beginners,1,[11]
+beginning,1,[556]
+better,1,[612]
+bl,1,[427]
+bought,1,[474]
+braid,1,[235]
+bruxelles,2,"[80, 658]"
+c.,1,[52]
+called,3,"[273, 286, 295]"
+cards,1,[240]
+care,1,[732]
+careful,1,[702]
+cartisane_,1,[288]
+ce,1,[226]
+celebrated,1,[406]
+centre,1,[698]
+century,1,[291]
+clearly,2,"[676, 708]"
+close,1,[726]
+closely,1,[614]
+co.,2,"[40, 609]"
+coarse,3,"[181, 449, 480]"
+coarser,1,[341]
+coarsest,1,[637]
+colour,1,[613]
+coloured,1,[367]
+completed,1,[536]
+completes,1,[386]
+conne,1,[353]
+consists,1,[671]
+continue,1,[514]
+convoluted,1,[75]
+cord,4,"[36, 53, 61, 227]"
+corner,1,[554]
+corners,2,"[365, 551]"
+correspond,1,[385]
+cost,1,[473]
+cotton,3,"[281, 543, 665]"
+couvrettes,1,[345]
+covered,3,"[259, 379, 439]"
+covers,1,[346]
+crochet,1,[357]
+cted,1,[354]
+cushion,1,[373]
+cushions,1,[339]
+d'alencon,1,[82]
+d'art,10,"[247, 252, 314, 320, 394, 404, 575, 581, 644, 731]"
+d'esprit,3,"[646, 662, 715]"
+darn,1,[568]
+darning,1,[722]
+de,8,"[79, 648, 651, 654, 657, 717, 759, 762]"
+decrease,1,[518]
+decreased,1,[548]
+derby,1,[610]
+derives,1,[266]
+design,1,[316]
+designed,1,[400]
+devoted,1,[592]
+discontinued,1,[280]
+dotted,1,[83]
+double,1,[544]
+ease,2,"[397, 600]"
+easier,1,[567]
+easily,2,"[7, 470]"
+edge,1,[545]
+edged,2,"[234, 360]"
+eider,1,[347]
+eighth,1,[69]
+either,1,[448]
+elaborate,1,[597]
+elegant,2,"[350, 465]"
+embroidered,1,[467]
+employed,1,[426]
+en,1,[327]
+end,2,"[500, 520]"
+endpapers,1,[31]
+england,1,[289]
+enlarged,2,"[23, 90]"
+es,1,[458]
+evans,2,"[39, 608]"
+even,1,[747]
+every,3,"[315, 501, 521]"
+examination,1,[703]
+excel,1,[578]
+execution,1,[588]
+explain,1,[707]
+eyes,1,[430]
+facilitated,1,[560]
+fall,1,[383]
+fancy,1,[5]
+far,1,[566]
+favourite,1,[9]
+feston,2,"[652, 763]"
+fine,5,"[189, 450, 482, 725, 753]"
+finely,2,"[74, 335]"
+finer,1,[664]
+finest,1,[639]
+first,2,"[593, 695]"
+follow,1,[626]
+formed,1,[546]
+forming,1,[533]
+forms,1,[724]
+forwards,1,[494]
+found,2,"[321, 611]"
+foundation,4,"[460, 537, 666, 669]"
+foundations,1,[752]
+four,1,[550]
+frame,5,"[437, 540, 555, 573, 688]"
+fresh,2,"[398, 534]"
+g,1,[250]
+gold,1,[260]
+greatly,2,"[89, 559]"
+grecque,1,[1]
+groundwork,1,[727]
+guipure,19,"[246, 254, 265, 284, 296, 301, 313, 319, 351, 355, 362, 393, 403, 408, 574, 580, 618, 643, 730]"
+half,1,[692]
+handkerchiefs,1,[48]
+hank,2,"[231, 245]"
+hole,3,"[60, 63, 66]"
+holes,3,"[68, 508, 512]"
+hours,1,[591]
+illustration,7,"[12, 18, 570, 677, 711, 743, 755]"
+imitation,1,[405]
+important,1,[391]
+inch,2,"[70, 491]"
+increase,2,"[498, 515]"
+increased,1,[547]
+ing,1,[636]
+initials,1,[49]
+instance,1,[594]
+instructions,1,[248]
+intersected,1,[412]
+intersecting,1,[694]
+intervening,1,[699]
+introduced,1,[318]
+joined,1,[364]
+keep,1,[734]
+kind,1,[303]
+knotted,1,[530]
+l,1,[562]
+la,1,[225]
+lace,15,"[17, 29, 35, 101, 233, 255, 285, 302, 317, 356, 363, 378, 384, 409, 619]"
+laced,1,[538]
+laces,1,[294]
+lacing,2,"[542, 557]"
+ladies,2,"[469, 576]"
+laid,1,[54]
+large,1,[429]
+last,1,[527]
+le,1,[21]
+learner,1,[678]
+least,1,[390]
+length,1,[685]
+less,1,[472]
+letter,2,"[15, 88]"
+letters,1,[76]
+linen,4,"[242, 417, 432, 719]"
+lo,1,[631]
+look,1,[336]
+looks,1,[323]
+loops,4,"[674, 684, 690, 697]"
+loose,1,[569]
+made,3,"[256, 468, 476]"
+make,1,[343]
+many,1,[750]
+mark,1,[680]
+marking,1,[46]
+mastered,1,[603]
+material,1,[282]
+materials,2,"[33, 434]"
+may,1,[359]
+measuring,1,[488]
+mecklenburg,5,"[41, 419, 444, 451, 604]"
+mesh,1,[487]
+meshes,1,[455]
+messrs.,2,"[37, 606]"
+misapplied,1,[298]
+mode,1,[92]
+modern,1,[293]
+mounted,1,[328]
+mounting,1,[388]
+much,2,"[471, 728]"
+name,2,"[267, 275]"
+narrow,1,[361]
+nce,1,[300]
+nearer,1,[72]
+needles,2,"[425, 454]"
+net,1,[446]
+netted,2,"[459, 751]"
+netting,5,"[453, 479, 552, 561, 701]"
+network,1,[416]
+next,1,[65]
+no.10,1,[483]
+nos,1,[704]
+number,3,"[507, 735, 740]"
+numbers,1,[624]
+one,5,"[304, 389, 436, 442, 504]"
+operation,1,[558]
+opposite,1,[691]
+ove,1,[485]
+overcast,1,[766]
+particularly,1,[324]
+pass,1,[64]
+passing,1,[58]
+pattern,3,"[56, 73, 598]"
+patterns,4,"[249, 399, 413, 754]"
+perfect,1,[585]
+placed,1,[366]
+plain,3,"[241, 377, 721]"
+pocket,1,[47]
+point,19,"[0, 16, 28, 34, 78, 81, 100, 224, 232, 645, 647, 650, 653, 656, 661, 714, 716, 758, 761]"
+possible,2,"[565, 709]"
+practise,1,[582]
+pretty,1,[387]
+pricked,1,[57]
+principal,1,[640]
+process,1,[276]
+purpose,1,[424]
+quarters,1,[490]
+quickness,1,[587]
+quilted,1,[330]
+quilts,1,[349]
+r,1,[486]
+raised,1,[411]
+ready,1,[475]
+regularity,1,[586]
+remain,1,[526]
+repeat,1,[67]
+replaced,1,[283]
+reprise,1,[655]
+required,4,"[435, 506, 513, 686]"
+resembles,1,[615]
+ribbon,2,"[382, 441]"
+round,2,"[271, 307]"
+row,3,"[502, 522, 683]"
+rows,1,[492]
+ruche,1,[381]
+run,1,[625]
+runs,2,"[228, 236]"
+sachet,1,[50]
+satin,2,"[332, 369]"
+say,1,[667]
+see,1,[30]
+seen,2,"[675, 768]"
+series,1,[765]
+shade,1,[616]
+show,1,[91]
+shown,1,[742]
+shows,1,[87]
+si,1,[299]
+silk,7,"[262, 268, 331, 348, 368, 380, 440]"
+silver,1,[261]
+six,1,[238]
+sixteenth,1,[290]
+siz,1,[457]
+sizes,1,[422]
+skilful,1,[401]
+small,1,[673]
+sofa,1,[372]
+sold,1,[620]
+soon,1,[601]
+sorrento,1,[84]
+speed,1,[395]
+spools,1,[621]
+square,6,"[415, 443, 477, 510, 693, 737]"
+squares,3,"[333, 352, 376]"
+stars,1,[660]
+stitch,5,"[6, 10, 505, 535, 720]"
+stitches,10,"[497, 517, 525, 529, 549, 583, 602, 641, 736, 767]"
+substance,1,[311]
+succession,1,[672]
+suited,1,[96]
+table,1,[94]
+taken,1,[733]
+taking,1,[541]
+tatting,1,[358]
+tha,1,[274]
+thin,1,[257]
+thirty,1,[237]
+thread,14,"[42, 59, 263, 305, 309, 342, 418, 420, 433, 445, 452, 484, 605, 723]"
+threads,2,"[95, 741]"
+three,2,"[489, 590]"
+thus,3,"[269, 370, 509]"
+tied,1,[553]
+tightly,1,[564]
+till,2,"[503, 523]"
+time,2,"[277, 595]"
+together,1,[531]
+toile,3,"[649, 718, 760]"
+toilet,1,[338]
+trimmimgs,1,[162]
+tter,1,[22]
+turn,1,[687]
+twelve,2,"[229, 243]"
+twisted,2,"[270, 306]"
+two,1,[589]
+uipure,1,[251]
+unt,1,[428]
+upon,5,"[55, 329, 414, 464, 539]"
+use,1,[278]
+used,4,"[423, 642, 729, 749]"
+useful,3,"[3, 45, 322]"
+variety,1,[4]
+various,4,"[97, 292, 421, 456]"
+vellum,3,"[258, 272, 279]"
+walter,2,"[38, 607]"
+wasted,1,[596]
+well,2,"[325, 337]"
+wh,1,[326]
+wheels,1,[659]
+wire,1,[438]
+wish,1,[577]
+without,1,[532]
+word,2,"[264, 297]"
+words,1,[710]
+work,2,"[466, 689]"
+worked,12,"[8, 77, 99, 334, 340, 396, 410, 478, 599, 663, 696, 764]"
+workers,1,[402]
+working,3,"[93, 579, 682]"
+yards,4,"[230, 239, 244, 623]"
+|,27,"[102, 120, 130, 132, 136, 138, 142, 144, 148, 150, 154, 156, 160, 163, 167, 169, 173, 175, 179, 182, 186, 187, 190, 194, 195, 213, 223]"
+|caps,1,[131]
+|collars,1,[137]
+|couvrettes,1,[143]
+|cravats,1,[149]
+|d'oyleys,1,[155]
+|dress,1,[161]
+|edgings,1,[168]
+|handkerchiefs,1,[174]
+|insertions,1,[180]

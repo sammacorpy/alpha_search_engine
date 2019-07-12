@@ -1,0 +1,96 @@
+--,"1,8102,017",201120122014201620182020total,31,931000,account86165555,agency,agreements1007070707070,aig000000,alternative,asset-backed,assets17117514612110498,"assets2,9212,6342,0251,620",assetsliquidity,balance,balances,bank,"banks1,7131,375612303030",calculations,capital546282108143189,cbillions,central,"circulation1,0341,1111,2451,3961,5511,712",components,credit,credit000000,debt,depository,deposits,deposits6500000,dollarsdec,due,dueto,extended,facilities931000,facility,federal,financial,firms10000000,general,h.4.1,held,holdings,ii,iii,"institutions1,5621,359607252525",institutions3429161174,interest,lane,lending,"liabilities2,8672,5731,9431,5121,6671,828",liabilitiesfederal,liquidity,llc,llc111000,llc3429161174,loan,maiden,may,mortgage-backed,net,note,notes,"outright2,6052,4261,8611,4871,6981,915",portfolio,primary,programs,projections,releases,repurchase,reserve,reverse,rounding,seasonal,secondary,securities,"securities1,6631,5901,3411,2651,6981,915",securities10477391600,securities83876048220600,selected,sheetend-of-year,source,specific,staff,statistical,sum,support,swaps10000000,talf,term,total,totals,treasury,treasury200000,u.s.
+--,1,[5]
+"1,8102,017",1,[12]
+201120122014201620182020total,1,[10]
+31,1,[9]
+931000,1,[35]
+account86165555,1,[97]
+agency,2,"[62, 65]"
+agreements1007070707070,1,[84]
+aig000000,1,[41]
+alternative,1,[6]
+asset-backed,1,[30]
+assets17117514612110498,1,[74]
+"assets2,9212,6342,0251,620",1,[11]
+assetsliquidity,1,[14]
+balance,1,[2]
+balances,1,[90]
+bank,1,[23]
+"banks1,7131,375612303030",1,[88]
+calculations,1,[115]
+capital546282108143189,1,[107]
+cbillions,1,[7]
+central,1,[22]
+"circulation1,0341,1111,2451,3961,5511,712",1,[81]
+components,1,[117]
+credit,2,"[27, 39]"
+credit000000,1,[21]
+debt,1,[63]
+depository,1,[92]
+deposits,1,[85]
+deposits6500000,1,[98]
+dollarsdec,1,[8]
+due,1,[121]
+dueto,1,[103]
+extended,1,[40]
+facilities931000,1,[28]
+facility,1,[33]
+federal,4,"[0, 86, 100, 109]"
+financial,1,[16]
+firms10000000,1,[17]
+general,1,[96]
+h.4.1,1,[111]
+held,2,"[57, 91]"
+holdings,2,"[44, 70]"
+ii,1,[50]
+iii,1,[54]
+"institutions1,5621,359607252525",1,[93]
+institutions3429161174,1,[38]
+interest,1,[99]
+lane,3,"[46, 49, 53]"
+lending,1,[26]
+"liabilities2,8672,5731,9431,5121,6671,828",1,[76]
+liabilitiesfederal,1,[78]
+liquidity,1,[24]
+llc,2,"[47, 51]"
+llc111000,1,[72]
+llc3429161174,1,[55]
+loan,1,[32]
+maiden,3,"[45, 48, 52]"
+may,1,[118]
+mortgage-backed,1,[66]
+net,2,"[42, 68]"
+note,1,[116]
+notes,2,"[80, 102]"
+"outright2,6052,4261,8611,4871,6981,915",1,[58]
+portfolio,2,"[43, 69]"
+primary,1,[18]
+programs,1,[15]
+projections,1,[4]
+releases,1,[113]
+repurchase,1,[83]
+reserve,6,"[1, 79, 87, 89, 101, 110]"
+reverse,1,[82]
+rounding,1,[122]
+seasonal,1,[20]
+secondary,1,[19]
+securities,2,"[31, 56]"
+"securities1,6631,5901,3411,2651,6981,915",1,[61]
+securities10477391600,1,[64]
+securities83876048220600,1,[67]
+selected,2,"[13, 77]"
+sheetend-of-year,1,[3]
+source,1,[108]
+specific,1,[37]
+staff,1,[114]
+statistical,1,[112]
+sum,1,[119]
+support,1,[36]
+swaps10000000,1,[25]
+talf,2,"[34, 71]"
+term,1,[29]
+total,3,"[73, 75, 106]"
+totals,1,[120]
+treasury,2,"[60, 95]"
+treasury200000,1,[105]
+u.s.,3,"[59, 94, 104]"

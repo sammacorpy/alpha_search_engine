@@ -1,0 +1,176 @@
+153,157,16,17,193,194,198,199,205,207,210,211,26,261,27,287,29,3,30,302,303,304,306,307,308,309,310,311,315,316,323,335,343,344,349,350,351,352,353,354,355,356,357,358,359,360,361,362,366,4,40,417,418,419,420,421,424,425,426,431,442,451,453,454,46,470,473,474,479,5,500,58,alphabet,bag,border,bound,braid,braids,broidery,capitals,charlotte,collar,coral,cords,cotton,cravat,crochet,d'or,dalecarlian,deep,diamond,directions,dots,edging,edgings,em,embroidered,embroidery,end,english,f,fichu,floral,florid,forget,fur,general,guipure,hlin,honiton,initials,insertion,knitted,knitting,lace,lady,lappet,linen,lingeries,looped,materials,mec,mechlin,medallion,mesh,mignardise,modes,mon,monograms,muslin,names,ne,neckerchief,needle,needles,net,netted,netting,nightcaps,nots,ograms,old,open,p.,picots,placing,point,pp,purse,queen,raised,required,russe,sampler,sash,satin,scalloped,scissors,shell,sizes,small,square,star,stitch,stitches,style,tatted,tatting,threads,trimming,tted,veil,venetian,white,working
+153,1,[249]
+157,1,[92]
+16,1,[97]
+17,1,[98]
+193,1,[108]
+194,1,[112]
+198,1,[142]
+199,1,[146]
+205,1,[104]
+207,1,[25]
+210,1,[156]
+211,1,[161]
+26,1,[85]
+261,1,[2]
+27,2,"[9, 88]"
+287,2,"[129, 259]"
+29,1,[167]
+3,1,[13]
+30,2,"[121, 291]"
+302,5,"[133, 256, 281, 299, 303]"
+303,1,[283]
+304,1,[295]
+306,1,[287]
+307,1,[293]
+308,1,[289]
+309,2,"[37, 267]"
+310,2,"[41, 275]"
+311,1,[279]
+315,1,[263]
+316,1,[264]
+323,1,[252]
+335,1,[124]
+343,2,"[270, 306]"
+344,2,"[271, 307]"
+349,1,[220]
+350,1,[225]
+351,1,[206]
+352,1,[190]
+353,1,[175]
+354,1,[215]
+355,1,[211]
+356,1,[185]
+357,1,[195]
+358,1,[229]
+359,1,[201]
+360,1,[245]
+361,1,[179]
+362,1,[241]
+366,2,"[232, 237]"
+4,2,"[17, 34]"
+40,1,[29]
+417,2,"[233, 238]"
+418,1,[242]
+419,1,[5]
+420,2,"[46, 311]"
+421,1,[138]
+424,1,[21]
+425,1,[78]
+426,1,[53]
+431,1,[54]
+442,1,[51]
+451,1,[70]
+453,2,"[57, 65]"
+454,1,[66]
+46,1,[116]
+470,1,[75]
+473,1,[76]
+474,1,[59]
+479,1,[60]
+5,1,[292]
+500,1,[82]
+58,2,"[151, 164]"
+alphabet,12,"[171, 176, 180, 186, 191, 196, 202, 207, 212, 216, 221, 226]"
+bag,2,"[115, 118]"
+border,1,[278]
+bound,1,[290]
+braid,1,[49]
+braids,1,[52]
+broidery,1,[210]
+capitals,1,[218]
+charlotte,2,"[33, 137]"
+collar,2,"[106, 110]"
+coral,1,[172]
+cords,1,[55]
+cotton,1,[120]
+cravat,1,[247]
+crochet,2,"[1, 28]"
+d'or,1,[193]
+dalecarlian,1,[4]
+deep,1,[7]
+diamond,1,[286]
+directions,1,[62]
+dots,1,[73]
+edging,2,"[11, 15]"
+edgings,1,[58]
+em,1,[209]
+embroidered,8,"[24, 90, 107, 111, 189, 194, 205, 248]"
+embroidery,18,"[103, 141, 145, 155, 160, 170, 174, 178, 184, 200, 214, 219, 224, 228, 231, 236, 240, 244]"
+end,1,[101]
+english,1,[288]
+f,1,[183]
+fichu,1,[262]
+floral,1,[177]
+florid,1,[181]
+forget,1,[187]
+fur,1,[127]
+general,1,[61]
+guipure,1,[20]
+hlin,1,[45]
+honiton,1,[19]
+initials,2,"[169, 230]"
+insertion,1,[23]
+knitted,1,[251]
+knitting,3,"[123, 128, 258]"
+lace,19,"[0, 3, 6, 10, 14, 18, 22, 26, 30, 35, 38, 42, 47, 83, 86, 135, 266, 274, 310]"
+lady,2,"[89, 93]"
+lappet,1,[99]
+linen,4,"[105, 109, 113, 117]"
+lingeries,1,[149]
+looped,1,[122]
+materials,4,"[67, 125, 130, 297]"
+mec,1,[44]
+mechlin,3,"[31, 134, 309]"
+medallion,6,"[139, 143, 147, 152, 157, 162]"
+mesh,2,"[254, 302]"
+mignardise,1,[165]
+modes,1,[71]
+mon,1,[234]
+monograms,1,[168]
+muslin,1,[246]
+names,1,[239]
+ne,1,[260]
+neckerchief,1,[250]
+needle,2,"[253, 301]"
+needles,1,[257]
+net,1,[95]
+netted,7,"[36, 39, 265, 268, 272, 276, 305]"
+netting,7,"[132, 255, 280, 282, 284, 296, 300]"
+nightcaps,2,"[269, 304]"
+nots,1,[188]
+ograms,1,[235]
+old,2,"[43, 308]"
+open,2,"[40, 273]"
+p.,3,"[56, 69, 81]"
+picots,1,[74]
+placing,1,[50]
+point,4,"[48, 153, 158, 192]"
+pp,1,[64]
+purse,3,"[91, 140, 144]"
+queen,2,"[32, 136]"
+raised,1,[197]
+required,4,"[68, 126, 131, 298]"
+russe,2,"[154, 159]"
+sampler,1,[243]
+sash,1,[100]
+satin,2,"[198, 203]"
+scalloped,1,[208]
+scissors,1,[77]
+shell,1,[277]
+sizes,1,[80]
+small,2,"[213, 223]"
+square,1,[294]
+star,2,"[217, 222]"
+stitch,3,"[173, 199, 204]"
+stitches,1,[285]
+style,1,[182]
+tatted,2,"[84, 87]"
+tatting,10,"[8, 12, 16, 27, 96, 114, 119, 150, 163, 166]"
+threads,1,[79]
+trimming,1,[148]
+tted,1,[261]
+veil,1,[94]
+venetian,1,[102]
+white,1,[227]
+working,2,"[63, 72]"

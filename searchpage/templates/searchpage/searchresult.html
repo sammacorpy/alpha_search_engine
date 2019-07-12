@@ -1,0 +1,120 @@
+{% load static %}
+<!-- <!DOCTYPE html> -->
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <title>Alpha || {{ title }}</title>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+
+    <script src="{% static 'searchpage/js/home.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'searchpage/css/home.css' %}" type="text/css">
+    <script>
+        function updateclick(fdata) {
+            $.ajax({
+        url:'/clickrank?clickedfile=' + fdata,
+        method: 'GET',
+        success: function(res) {
+            console.log(res)
+        }
+    })
+        }
+   
+    </script>
+
+</head>
+
+<body>
+    <nav class="csnav gradient">
+
+        <div class="headinnav">
+
+            <form action="{% url 'search' %}" method="GET">
+                {% csrf_token %}
+                <a href="{% url '' %}"> <span class="headtext">
+                        Alpha
+                    </span></a>
+
+                <input type="search" name="query" value="{{query}}" id="query">
+                <button class="customize-search-btn">
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+            </form>
+            <div class="texthead">
+                About {{lengthofres}} results ({{total_time_taken}} seconds)
+            </div>
+        </div>
+
+    </nav>
+
+    <div class="bodyresult">
+        <div class="row">
+            <div class="col">
+                {% for r in results %}
+                <div class="row showcard">
+                    <div class="col-1 image">
+                        <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                    </div>
+                    <div class="col headings">
+                        <div class="queryresulthead">
+                            <a onclick = 'updateclick("{{r}}")' href="{% static 'searchpage/dataset/' %}{{r}}" target="blank">
+                                {{r}}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+                {% if error == 1 %}
+                <div class="error">
+                    Your search - <b>{{query}}</b> didn't match any documents.
+                </div>
+                {% endif %}
+            </div>
+
+            <div class="col">
+                {% if not error %}
+                <div class="displaypdf">
+
+                    <div id="Iframe-Master-CC-and-Rs" class="set-margin set-padding set-border set-box-shadow center-block-horiz">
+                        <div class="responsive-wrapper 
+                                           responsive-wrapper-wxh-572x612"
+                            style="-webkit-overflow-scrolling: touch; overflow: auto;">
+
+                            <iframe src="{% static 'searchpage/dataset/' %}{{results.0}}">
+                                <p style="font-size: 110%;"><em><strong>ERROR: </strong>
+                                        An &#105;frame should be displayed here but your browser version does not
+                                        support &#105;frames. </em>Please
+                                    update your browser to its most recent version and try again.</p>
+                            </iframe>
+
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+
+    <!-- Bootstrap tooltips -->
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+
+</body>
+
+
+</html>
