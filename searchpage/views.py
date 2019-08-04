@@ -18,7 +18,7 @@ DATA_STORE_LOCATION = os.path.join(settings.FILES_DIR, "dataset")
 WORDS_DATA_LOCATION = os.path.join(settings.FILES_DIR, "words_data")
 CLICKS_LOCATION = os.path.join(settings.FILES_DIR, "clicks.txt")
 PDF_INDEX_LOCATION = os.path.join(settings.FILES_DIR, "pdfindex.txt")
-# file_path = os.path.join(settings.FILES_DIR, 'test.txt')
+file_path = os.path.join(settings.FILES_DIR, 'test.txt')
 
 
 def click_prob(a):
@@ -82,7 +82,7 @@ def search(request):
                 reader = csv.reader(f)
                 data = [list(d) for d in reader]
                 # print(data)
-                score = main_search(words, data, words_count, word_weights)*click_prob(clicks[int(csvData.split("/")[-1].split(".")[0])])
+                score = main_search(words, data, words_count, word_weights)*click_prob(clicks[int(csvData.split("\\")[-1].split(".")[0])])
                 if score in dic:
                     dic[score].append(csvData)
                 else:
